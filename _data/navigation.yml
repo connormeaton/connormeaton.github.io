@@ -1,18 +1,15 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
+  - title: "Papers"
+    url: /papers/
+ 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Seeds"
-    url: /portfolio/
+  - title: "Bits"
+    url: /bits/
         
-  - title: "Blog Posts"
+  - title: "Essays"
     url: /year-archive/
     
   - title: "CV"
