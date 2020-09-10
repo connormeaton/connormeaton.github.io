@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Connor M. Eaton"
+  name             : ""
   avatar           : "profile.png"
-  bio              : "___"
-  location         : "Seattle, WA"
-  employer         : "Research Scientist at Affective Software, Inc."
+  bio              : ""
+  location         : ""
+  employer         : ""
   pubmed           : 
   googlescholar    : 
   email            :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/connormeaton/"
   google_plus      :
   keybase          :
   instagram        :
