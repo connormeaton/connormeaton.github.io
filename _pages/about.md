@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "here is a title"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-### Connor Eaton
+# Connor Eaton
 Seattle, WA · connormeaton@gmail.com
   
 AI researcher and machine learning engineer. Currently a Research Scientist at Affective Software, Inc.
 
 Primary interests:
--
+  -
 
 Interests outside of research:
-- 
+  - 
