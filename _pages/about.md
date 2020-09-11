@@ -14,7 +14,9 @@ Seattle, WA · connormeaton@gmail.com
 AI researcher and machine learning engineer. Currently a Research Scientist at Affective Software, Inc.
 
 Primary interests:
+
   -
 
 Interests outside of research:
+
   - 
