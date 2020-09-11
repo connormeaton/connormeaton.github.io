@@ -1,16 +1,10 @@
 # main links links
 main:
-  - title: "Papers"
-    url: /papers/
- 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Bits"
-    url: /bits/
+  - title: "Books in a Sentence"
+    url: /books-in-a-sentence/
         
   - title: "Essays"
-    url: /year-archive/
+    url: /essays/
     
   - title: "CV"
     url: /cv/
