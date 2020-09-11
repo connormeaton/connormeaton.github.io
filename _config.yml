@@ -11,9 +11,9 @@ title                    : "Connor M. Eaton"
 title_separator          : "-"
 name                     : &name "Connor M. Eaton"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+url                      : #https://connormeaton.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : #"" # the subpath of your site, e.g. "/blog"
+repository               : #"connormeaton/connormeaton.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Connor M. Eaton"
+  name             : 
   avatar           : "profile.png"
-  bio              : "___"
-  location         : "Seattle, WA"
-  employer         : "Research Scientist at Affective Software, Inc."
+  bio              : 
+  location         : 
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/connormeaton/"
   google_plus      :
   keybase          :
   instagram        :
@@ -261,14 +261,14 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
+  #- jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
+  #- jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
