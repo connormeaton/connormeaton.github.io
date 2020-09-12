@@ -1,11 +1,22 @@
 # main links links
 main:
-  - title: "Books in a Sentence"
-    url: /books-in-a-sentence/
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Portfolio"
+    url: /portfolio/
         
-  - title: "Essays"
-    url: /essays/
+  - title: "Blog Posts"
+    url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
+  - title: "Guide"
+    url: /markdown/
