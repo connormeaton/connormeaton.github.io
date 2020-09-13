@@ -34,14 +34,14 @@ Taught five distinct undergraduate courses throughout the biology department ove
 Assisted in numerous interdisciplinary research projects in the Horticultural Lab of the College of Life Sciences.
 
 ### Industry Positions
-- 2019 –		Data Scientist, Affective Software, Inc., Seattle, WA
-Data scientist building machine learning models for multi-modal emotion classification. Using state of the art techniques for natural language processing, computer vision, and audio analysis to power consumer applications.
-- 2018 –		Data Analyst & Research Assistant, The Gottman Institute, Seattle, WA
+- 2019 –	*current*	Research Scientist, Affective Software, Inc., Seattle, WA
+Research scientist building machine learning models for multi-modal emotion classification. Using state of the art techniques for natural language processing, computer vision, and audio analysis to power consumer applications.
+- 2018 –	*current*	Data Analyst & Research Assistant, The Gottman Institute, Seattle, WA
 Applying emotional analysis (Specific Affect Coding) to couples in clinical/lab setting to improve therapeutic outcomes. Involved in observational research and managing data pipelines, visualization, and statistical analysis.
-- 2018 –		Educator, Sequoia Immersions, LLC, Seattle, WA
+- 2018 –	2020	    Educator, Sequoia Immersions, LLC, Seattle, WA
 Co-facilitating psychoeducational wilderness couples retreats using the research-based Gottman relational model.
-2017 – 2018       Production Manager, Luna Sandals, Seattle, WA
-- Managed the design and manufacturing of high-end minimalist performance footwear.
+- 2017 – 2018       Production Manager, Luna Sandals, Seattle, WA
+Managed the design and manufacturing of high-end minimalist performance footwear.
 
 ### Scientific Publications
 - 2018	Orde, K. M., Eaton, C., & Sideman, R. G. (2018). Yield and Soluble Solids Content of Winter-grown Spinach in Unheated High Tunnels in New England. HortScience, 53(5), 638-645. doi:10.21273/hortsci12956-18.  
