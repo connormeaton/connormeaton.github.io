@@ -1,4 +1,4 @@
-[url=https://postimg.cc/Fkpqx3xs][img]https://i.postimg.cc/Fkpqx3xs/Screen-Shot-2020-09-13-at-1-31-21-PM.png[/img][/url]
+<a href="https://postimg.cc/Fkpqx3xs" target="_blank"><img src="https://i.postimg.cc/Fkpqx3xs/Screen-Shot-2020-09-13-at-1-31-21-PM.png" alt="Screen-Shot-2020-09-13-at-1-31-21-PM"/></a><br/><br/>
 
 
 
