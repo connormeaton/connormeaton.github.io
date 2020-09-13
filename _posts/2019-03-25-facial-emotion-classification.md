@@ -4,6 +4,8 @@ Emotionally perceptive AI is likely going to have huge positive and negative imp
 
 This project had two parts. The first was creating a support-vector classification model to predict facial emotion from images using facial landmarks, a 68 point coordinate system that maps onto the “moving parts” of the face. Then, this model was fed into a live video stream from a webcam, where it classifies the emotion of all present faces frame by frame, and returns a prediction in real time.
 
+![](../emotion_stream.gif)
+
 
 ### Tools
 Many tools were used for this project, including python, pandas, numpy, matplotlib, sklearn, keras, Dlib and openCV.
