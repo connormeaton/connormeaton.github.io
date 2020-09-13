@@ -6,7 +6,7 @@ tags:
   -
 ---
 [![Screen-Shot-2019-03-01-at-8-45-26-AM.png](https://i.postimg.cc/yNtQ2FQ6/Screen-Shot-2019-03-01-at-8-45-26-AM.png)](https://postimg.cc/06G0wJ1h)
-
+  *a t-SNE representation of the dream space of reddit users.
 
 Humans dream. Sometimes our dreams are as touching as visiting a deceased loved one. Sometimes they are wild subconscious utterances drenched in symbolism. Sometimes they are as mundane as eating a sandwich. Regardless, as mysterious as the content of our dreams are, even more puzzling is how across cultures, humans often dream similar dreams.
 
@@ -25,6 +25,8 @@ As with anything that mirrors the human soul, the internet is a messy place, so 
 The dreams were rendered machine readable, but they were just a pile of text files with no real structure. Fortunately, brilliant minds have invented a class of modeling techniques know as ‘unsupervised learning’, where a machine finds patterns that the deployer did not have the time, resources, or ability to find themselves. In my case, I programmed my machine to create a set number of categories of dreams based off of things like word similarity and sort each dream accordingly into a group. The algorithm I used is called ‘Latent Dirichlet Allocation’ and the code for this can be found here.
 
 The result of this grouping was fascinating. Based off of reading the most relevant words per category, several interesting themes occurred from the corpus of dreams. For example, there were shared categories of dreams centered around air/water, exploring a structure, school, sickness/health, and violence. I doubt anyone is surprised to see these categories emerge, but what was fascinating is that these groupings allow us to leave to world of anecdote and observe these shared dream categories empirically. See the word clouds representing some of the categories below and please feel free to contribute to their interpretation.
+
+[![Screen-Shot-2019-03-02-at-11-11-59-AM.png](https://i.postimg.cc/6Qq6MNgJ/Screen-Shot-2019-03-02-at-11-11-59-AM.png)](https://postimg.cc/XZM0vtnQ)
 
 Much work can be done to tweak the model to make these categories even more interpretable and relevant. However, with the time scope of my project, I wanted to move on to next phase, making this useful for the average person.
 
