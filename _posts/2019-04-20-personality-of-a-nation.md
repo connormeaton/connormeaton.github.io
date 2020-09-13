@@ -7,7 +7,6 @@ Those people. The others. Them.
 
 In recent years, this has become the fashionable way to address those with ideological views that oppose our own. Instead of looking at those we disagree with as individual people trying to do their best (hopefully), we sort them into dehumanizing categories. 
 
-READ MORE
 I was one of those people. I went to a liberal university in the Northeast and played the part in assuming anyone with a conservative tilt, or even anyone who disagreed with anything I thought, was bad and wrong. This was an easy strategy, as it allowed me to skirt the responsibility of thinking critically about opposing views and accepting influence from others. Simply, others were just bad people and bad people were not reasonable. 
 
 Fortunately, sometime during graduate school I picked up a copy of The Righteous Mind by Dr. Jonathan Haidt. I read his work openly and carefully, and as a result, my entire worldview crumbled. I felt how I always imagined late 19th century Europe to have felt when Nietzsche, the self described 'philosopher with a hammer', was kicking out the supports of Western culture with his ideas.
