@@ -6,7 +6,8 @@ tags:
   -
 ---
 [![Screen-Shot-2019-03-01-at-8-45-26-AM.png](https://i.postimg.cc/yNtQ2FQ6/Screen-Shot-2019-03-01-at-8-45-26-AM.png)](https://postimg.cc/06G0wJ1h)
-  *a t-SNE representation of the dream space of reddit users.*
+ 
+     *a t-SNE representation of the dream space of reddit users.*
 
 Humans dream. Sometimes our dreams are as touching as visiting a deceased loved one. Sometimes they are wild subconscious utterances drenched in symbolism. Sometimes they are as mundane as eating a sandwich. Regardless, as mysterious as the content of our dreams are, even more puzzling is how across cultures, humans often dream similar dreams.
 
