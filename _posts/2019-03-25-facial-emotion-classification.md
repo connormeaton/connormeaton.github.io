@@ -6,6 +6,8 @@ This project had two parts. The first was creating a support-vector classificati
 
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/1zK5MX7P/emotion-stream.gif' border='0' alt='emotion-stream'/></a><br /><a href='https://postimages.org/'>anonymous pictures website</a><br />
 
+[emotion-stream.gif](https://postimg.cc/p9pHLWt1)
+
 ### Tools
 Many tools were used for this project, including python, pandas, numpy, matplotlib, sklearn, keras, Dlib and openCV.
 
