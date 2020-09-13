@@ -5,7 +5,7 @@ permalink: /books/
 author_profile: true
 ---
 
-To me, the purpose of reading is learning, so I want to remember what I read. However, reading is difficult and my memory is limited. Try as I may, I can't store away entire books in my head. Out of fear of wasting my time, I started the Books-in-a-sentence project as a way compress the insights of a book into a more portable form. The goal is to not summarize book, but rather distill the essense of my personal reading experience down into one sentence. This sentence is then light-weight but useful retrieval tool, like key on a ring that can (hopefully) open a specific larger vault of knowledge when needed.
+To me, the primary purpose of reading is learning and I want to remember everything that I've read. However, reading is difficult and my memory is limited. Out of fear of wasting my time, I started the Books-in-a-sentence project as a way compress the insights of a book into a more portable form. The goal is to not summarize book, but rather distill the essense of my personal reading experience down into one sentence. This sentence is a light-weight but useful retrieval tool, like key on a ring that can (hopefully) open a larger vault of knowledge when needed.
 
 
 ## A
