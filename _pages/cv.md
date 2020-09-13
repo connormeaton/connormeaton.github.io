@@ -9,13 +9,10 @@ redirect_from:
 
 # Curriculum Vitae
 **Connor Eaton**
-2406 ½ 9th Ave W, Seattle, WA, 98119
-(203) 814-8364
-connormeaton@gmail.com
-Personal website: connoreaton.org
-Github: cmeaton
-Linkedin: connormeaton
 
+- connormeaton@gmail.com
+- Github: cmeaton
+- Linkedin: connormeaton
 
 ### Biographical Information
 Born October 31, 1991, Massachusetts, USA
