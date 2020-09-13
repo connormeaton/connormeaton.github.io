@@ -1,8 +1,11 @@
 ---
-permalink: /books-in-a-sentence
-title: "Books in a Sentence"
+permalink: /
+title: ""
+excerpt: "About me"
 author_profile: true
-
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 
