@@ -55,7 +55,7 @@ While the empirical validity of these maps may not qualify as sound research, ex
 
 
 
-### Edit:
+**Notes:**
 Just for fun, here is a tiny town in Pennsylvania compared with Berkeley, California. Places are different.
 
 <a href='https://postimg.cc/ppGznCFc' target='_blank'><img src='https://i.postimg.cc/t4y5wmCb/Screen-Shot-2020-09-13-at-1-42-55-PM.png' border='0' alt='Screen-Shot-2020-09-13-at-1-42-55-PM'/></a>
