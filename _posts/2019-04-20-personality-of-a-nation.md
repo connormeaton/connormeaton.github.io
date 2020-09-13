@@ -35,27 +35,24 @@ Looking at the charts above, the quantified traits really capture the cultural '
 As interesting as these comparisons are, I've always wanted to create a map of personality traits on the national level. However, before doing just that, I need to make a disclaimer on my visualizations. My excitement in making these maps led me into a few common data visualization pitfalls. First, my data is incomplete. I do not have scores for every county. Second, I am extrapolating a state personality score from the mean scores across all counties within that state. This is prone to error in that mostly conservative states (like New Mexico) can have a very liberal city (like Santa Fe) that skews the averages of the traits (like openness). These maps are super fun, interesting, and thought provoking, but keep in mind they are not fully comprehensive.
 
 <a href="https://postimg.cc/56794CMV" target="_blank"><img src="https://i.postimg.cc/zG5ykCtV/Screen-Shot-2020-09-13-at-1-32-10-PM.png" alt="Screen-Shot-2020-09-13-at-1-32-10-PM"/></a><br/><br/>
-An estimation of agreeableness by state using personality score data. Darker blue = more agreeable, darker red = less agreeable.
 
 <a href="https://postimg.cc/FYw9cXRC" target="_blank"><img src="https://i.postimg.cc/d0VDbqKF/Screen-Shot-2020-09-13-at-1-32-19-PM.png" alt="Screen-Shot-2020-09-13-at-1-32-19-PM"/></a><br/><br/>
-An estimation of conscientiousness by state using personality score data. Darker blue = more conscientious, darker red = less conscientious.
 
 <a href="https://postimg.cc/188mf39N" target="_blank"><img src="https://i.postimg.cc/W1nhYdCS/Screen-Shot-2020-09-13-at-1-32-28-PM.png" alt="Screen-Shot-2020-09-13-at-1-32-28-PM"/></a><br/><br/>
-An estimation of neuroticism by state using personality score data. Darker blue = more negative emotion, darker red = less negative emotion.
 
 Again, these maps are more the product of eagerness and less of statistical rigor, so take them with a grain of salt. However, I hope you find them as interesting as I have and can use them as a low resolution guide for navigating the underlying psychological underpinnings of regional moral values.
 
 You'll probably notice I did not include trait openness. This is because cities tend to be higher in openness than rural areas, regardless of the state. This pattern skewed the state averages so much that the trait-by-state visualization was not useful. However, I made a new map showing county averages (average of available city/town scores) for openness that proved useful. It's rather sparse from a lack of data and I have a hunch that the blue areas more or less map to cities, but it's still an interesting visual.
 
 <a href="https://postimg.cc/XZFnk1Bj" target="_blank"><img src="https://i.postimg.cc/DzpmFt2X/Screen-Shot-2020-09-13-at-1-32-35-PM.png" alt="Screen-Shot-2020-09-13-at-1-32-35-PM"/></a><br/><br/>
-Trait openness by county. Darker blue = more openness darker red = less openness.
 ﻿
 What is even more interesting is how similar the county averages in trait openness compare to the 2016 election results by county. I made the election results map below from this 2016 election data. Notice any similarities to the above openness by county map?
 
 <a href="https://postimg.cc/LYp2Ckjz" target="_blank"><img src="https://i.postimg.cc/mDckr8D6/Screen-Shot-2020-09-13-at-1-32-44-PM.png" alt="Screen-Shot-2020-09-13-at-1-32-44-PM"/></a><br/><br/>
-2016 election popular vote results by county. Darker red = higher percentage of the vote was republican and darker blue = higher percentage of the vote was democratic.
 
 While the empirical validity of these maps may not qualify as sound research, extrapolating the effect of personality traits on our values, morals, and actions to a regional level has been an illuminating thought experiment. In the end, humans are immensely complex and for the most part, I'm not convinced we fully understand the underlying principles to our actions. At the very least, personality research can help us understand and empathize with the 'other'. The more of this we do, the closer we get to closing the cultural divide we face today.
+
+
 
 
 ### Edit:
