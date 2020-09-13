@@ -24,23 +24,23 @@ U.S. Citizen
 - 2013		Bachelors of Science (Agricultural Science), University of Vermont
 
 ### Academic Positions
-- 2013-2016	Research Project Manager, University of New Hampshire
+- 2013-2016,	Research Project Manager, University of New Hampshire
 Managed multi-year grant-funded research in plant physiology resulting in top journal publications and conference presentations.
-- 2013-2016	Research Assistant, Sideman Lab, University of New Hampshire
+- 2013-2016,	Research Assistant, Sideman Lab, University of New Hampshire
 Assisted in multi-year grant-funded research in soil biochemistry resulting in conference presentations.
-- 2013-2016	Teaching Assistant, Biology Department, University of New Hampshire
+- 2013-2016,	Teaching Assistant, Biology Department, University of New Hampshire
 Taught five distinct undergraduate courses throughout the biology department over seven semesters.
-- 2011-2013	Research Assistant, Horticultural Lab, University of Vermont 
+- 2011-2013,	Research Assistant, Horticultural Lab, University of Vermont 
 Assisted in numerous interdisciplinary research projects in the Horticultural Lab of the College of Life Sciences.
 
 ### Industry Positions
-- 2019 –	*current*	Research Scientist, Affective Software, Inc., Seattle, WA
+- 2019 –	*current*,	Research Scientist, Affective Software, Inc., Seattle, WA
 Research scientist building machine learning models for multi-modal emotion classification. Using state of the art techniques for natural language processing, computer vision, and audio analysis to power consumer applications.
-- 2018 –	*current*	Data Analyst & Research Assistant, The Gottman Institute, Seattle, WA
+- 2018 –	*current*,	Data Analyst & Research Assistant, The Gottman Institute, Seattle, WA
 Applying emotional analysis (Specific Affect Coding) to couples in clinical/lab setting to improve therapeutic outcomes. Involved in observational research and managing data pipelines, visualization, and statistical analysis.
-- 2018 –	2020	    Educator, Sequoia Immersions, LLC, Seattle, WA
+- 2018 –	2020,	    Educator, Sequoia Immersions, LLC, Seattle, WA
 Co-facilitating psychoeducational wilderness couples retreats using the research-based Gottman relational model.
-- 2017 – 2018       Production Manager, Luna Sandals, Seattle, WA
+- 2017 – 2018,      Production Manager, Luna Sandals, Seattle, WA
 Managed the design and manufacturing of high-end minimalist performance footwear.
 
 ### Scientific Publications
@@ -55,8 +55,8 @@ Managed the design and manufacturing of high-end minimalist performance footwear
 - 2014		Sustainable Agriculture Research & Education Graduate Student Grant. GNE14-077
 
 ### Personal Machine Learning Projects
-- 2018	Affective Audio: A logistic regression classifier to predict vocal emotion from audio         speech signals.
-- 2018		Statistical analysis of inter-rater reliability for specific affect coding.
+- 2018	Affective Audio: A logistic regression classifier to predict vocal emotion from audio speech signals.
+- 2018	Statistical analysis of inter-rater reliability for specific affect coding.
 - 2018	Dream Clusters: An unsupervised learning approach to dream analysis using Latent Dirichlet Allocation.
 - 2018	Deep Emotion: Classification of emotion via computer vision techniques using convolutional neural networks and support vector machines.
 
