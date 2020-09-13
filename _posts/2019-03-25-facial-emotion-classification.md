@@ -145,7 +145,7 @@ for emotion in emotions:
 
 The framed face look like this.
 
-![](src/visualization/frame_landmarks.png)
+<a href="https://postimg.cc/F731hxxJ" target="_blank"><img src="https://i.postimg.cc/kXhSF16w/Screen-Shot-2020-09-13-at-2-04-29-PM.png" alt="Screen-Shot-2020-09-13-at-2-04-29-PM"/></a><br/><br/>
 
 
 Now that you have all of your data processed and ready for modeling, create the training/testing set. It is important to reserve a portion (20%) outside of model training to test on, that way the model doesn’t just memorize the entire dataset. Before running the code, download the facial landmark algorithm and place it in your project directory.
@@ -198,7 +198,8 @@ With your training and testing data created, it’s time to find facial landmark
 
 
 Finding facial landmarks looks like this.
-![](src/visualization/frame_landmarks_prediction.png)
+
+<a href="https://postimg.cc/MMnKN0TH" target="_blank"><img src="https://i.postimg.cc/Hx2cJB1w/Screen-Shot-2020-09-13-at-2-04-36-PM.png" alt="Screen-Shot-2020-09-13-at-2-04-36-PM"/></a><br/><br/>
 
 ```
 def get_landmarks(image):
@@ -280,7 +281,7 @@ def make_sets():
     prediction_data, prediction_labels
 ```
 
-Finally, everything is in place to train the support-vector classification model , which is done by the code below. It performed with 82% accuracy.
+Finally, everything is in place to train the support-vector classification model, which is done by the code below. It performed with 82% accuracy.
 
 ```
 accur_lin = []
@@ -456,8 +457,6 @@ while True:
 
 The next bit of code creates the text that is cast onto each frame, labeling the prediction. I tinkered with font/color to try to match the emotion, as well as the sensitivity of prediction. For example, the model was not very sensitive to anger or disgust, so I created a lower threshold requirement to classify these emotions. This makes the prediction labeling a little more sensitive overall, but correctly classifying anger is worth a couple of happiness misclassifications.
 
-
-A snapshot of the model in action.
 ```
 if model[0][0] > .3:
     emotion = 'Anger'
@@ -527,13 +526,18 @@ video_capture.release()
 cv2.destroyAllWindows()
 ```
 
+Here is a snapshot of the model in action.
+
+<a href="https://postimg.cc/MMnKN0TH" target="_blank"><img src="https://i.postimg.cc/Hx2cJB1w/Screen-Shot-2020-09-13-at-2-04-36-PM.png" alt="Screen-Shot-2020-09-13-at-2-04-36-PM"/></a><br/><br/>
+
 ### Future Work
 As with any passion project, there is tremendous room for growth. Immediate improvements will be centered around training the model on more comprehensive data. Fortunately, AffectNet, a more recent and more robust pre-labeled dataset for facial emotion recognition, was recently released. Retraining the model on this data, which has almost half a million images will likely improve accuracy and increase the range of emotional categories.
 
 In addition, emotion is just one target to classify from facial images. Currently, data can be found to train models that predict age, gender, direction of gaze, energy level, and so on. Such models can have a myriad of use for a wide range of applications.
 
 ### Sources
-van Gent, P. (2016). Emotion Recognition With Python, OpenCV and a Face Dataset. A tech blog about fun things with Python and embedded electronics. Retrieved from:
+
+- van Gent, P. (2016). Emotion Recognition With Python, OpenCV and a Face Dataset. A tech blog about fun things with Python and embedded electronics. Retrieved from:
 http://www.paulvangent.com/2016/04/01/emotion-recognition-with-python-opencv-and-a-face-dataset/
-Kanade, T., Cohn, J. F., & Tian, Y. (2000). Comprehensive database for facial expression analysis. Proceedings of the Fourth IEEE International Conference on Automatic Face and Gesture Recognition (FG’00), Grenoble, France, 46-53.
-Lucey, P., Cohn, J. F., Kanade, T., Saragih, J., Ambadar, Z., & Matthews, I. (2010). The Extended Cohn-Kanade Dataset (CK+): A complete expression dataset for action unit and emotion-specified expression. Proceedings of the Third International Workshop on CVPR for Human Communicative Behavior Analysis (CVPR4HB 2010), San Francisco, USA, 94-101.
+- Kanade, T., Cohn, J. F., & Tian, Y. (2000). Comprehensive database for facial expression analysis. Proceedings of the Fourth IEEE International Conference on Automatic Face and Gesture Recognition (FG’00), Grenoble, France, 46-53.
+- Lucey, P., Cohn, J. F., Kanade, T., Saragih, J., Ambadar, Z., & Matthews, I. (2010). The Extended Cohn-Kanade Dataset (CK+): A complete expression dataset for action unit and emotion-specified expression. Proceedings of the Third International Workshop on CVPR for Human Communicative Behavior Analysis (CVPR4HB 2010), San Francisco, USA, 94-101.
