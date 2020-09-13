@@ -1,0 +1,43 @@
+---
+title: 'Facts are confusing'
+date: 2020-07-214
+permalink: /posts/2020/07/facts-are-confusing/
+tags:
+  -
+---
+
+
+One of the most confusing statements to me is when someone says, ‘This is a fact.’. I do not know what this means. Mainly, I am troubled by two problems:
+
+PROBLEM 1:
+What is a fact, and how do we trust it? Due to a variety of reasons, perhaps most commonly our inadequacy in perception, a fact is constantly invalidated and ideally, updated. As this process is never ending (or at least it appears to be), how is it that we have enough faith in a fact to accept it in its current state as valid, and build our perception of existence around it? 
+
+PROBLEM 2:
+Facts are more available now than ever before thanks to the internet. While endless utility has been gained from the effortless and instantaneous sharing of facts, we are now faced with the conundrum that any objective phenomena that we may be attempting to describe most likely has a set of facts produced through empirical testing or at least carefully thought through by someone with more expertise in the relevant subject area than you. With this awareness (fact), one becomes troubled. How is it that one should communicate with others? If much of interpersonal communication is centered around the description of objective phenomena (i.e. What kind of tree is that? How tall are those mountains? Was Picasso Spanish or French?), should all communication be accompanied by an internet-based fact checking system (smartphone) or should we not use such a device and accept that all of our conversation about the description of objective phenomena is useless and wrong? If the latter option is the case, do we even care whether or not we are accurately describing the world, or are we doing something completely different?
+
+A fact, I think, is piece of language to explain a reliable phenomenon. While it is tempting to view a fact as a noun, something we can hold, manipulate, and use the way we do hammer, saw, or brush, a fact is better understood as a verb. In this sense, a fact is a process, specifically a process of limitation. A fact is the process of reducing the explanation-space of a problem from every possibility to one. 
+  
+Take, for example, the fact that a mountain is 8000 feet tall. Before the fact from this statement can be assessed, several foundational sub-facts must are assumed. The first sub-fact is the fact that the mountain is a mountain. This is probably a fact. I say probably because in order to surely attribute a phenomenon to a fact, one must consult its definition. According to dictionary.com (all definitions will be taken from here), a mountain is: ‘a natural elevation of the earth's surface rising more or less abruptly to a summit, and attaining an altitude greater than that of a hill, usually greater than 2000 feet (610 meters)’. This definition (read fact) appears straightforward, but even this has much to unpack.
+
+Natural: ‘existing in or formed by nature (opposed to artificial)’. This one seems easy, sort of. Assuming that all things exist in or are formed by nature and that nature is the creative or arbitrary life-force of all things, everything is natural. I do not know what artificial means, for what could be opposite of this? The very definition of this word inspires more question than certainty,
+
+Elevation: ‘the height to which something is elevated or to which it rises’. Elevation is an adjective, a descriptor, a metric. It is not a fact, but a tool used to create one. It’s a useful tool, for it can input any object and any consistent unit of measurement, and output a product, an elevation. When we use this tool, we all must be in agreement about its definition and consistent with the unit of measurement. 
+
+Earth number 1: (often initial capital letter) the planet third in order from the sun, having an equatorial diameter of 7926 miles (12,755 km) and a polar diameter of 7900 miles (12,714 km), a mean distance from the sun of 92.9 million miles (149.6 million km), and a period of revolution of 365.26 days, and having one satellite.
+Earth number 2:  this planet as the habitation of humans, often in contrast to heaven and hell:to create a hell on earth.’
+
+Earth has many definitions, but one need not go further than the first two (earth number 1 and earth number 2) to discover the psychological split that the modern human is faced with. Earth is an objective thing, an almost spherical object defined by its observable characteristics. The more advanced our instrumentation becomes, the more we know about this object. 
+
+Earth is also the stage where mortally bound humans act out the spiritual drama, which is situated in between the place of ultimate ideals (heaven) and the place abject suffering (hell). This is much different from the previous definition of earth, which was solely objective. In fact, transcendence and suffering (the fundamental descriptors of the place of heaven and hell), are always with us (as projections onto the objective world (definition 1), indicating that while our bodies exist on earth number 1, our psyche, minds, consciousness, etc., can live in the opposite of earth number 1, heaven or hell (note: one can be ON earth and IN heaven/hell.). Apparently, this indicates that we are capable of being both on earth, this planet, and somewhere else, in heaven or hell, at the same time. This is really important. If someone is in hell, the experience of being there would likely sour their perception of earth. The misery and spite and hopelessness one experiences from living in this place may cause them to not even see the mountain, or to curse at it and not engage in conversation about its height, or lie about it and try to convince the other that its elevation is one thing and not the other in attempts to make life more difficult for all. If someone is in heaven, I don’t know what they would say. 
+So even earth, the big, solid, reliable object that supports human existence, has a shaky definition that we cannot necessarily reliably apply to all situations. 
+
+Such a discussion can be applied to every word. However, in lieu of time and energy, I will not go further, the point has been made. Every word we use to describe phenomena rests upon a foundation of other words, which are supported by other words, which, if you go all the way down, are supported by assumptions (or turtles). This brings me back to my original point.
+
+Facts are fashioned out of words, words are built upon assumptions because perception and knowledge is incomplete. Facts, then, are fragile objects that seem to lose a little stability each time they pass through a subject (why the game telephone is so much fun). For this reason, facts may not even be True, if True is defined by a thing that remains constant across time, space, and subjective perception. Not only this, but as instrumentation develops, a fact tends to change and is updated along with the precision of the new instrument. All this is to say, a fact is not as static of a thing as we may think. I speculate even the most robust facts generated from sound empirical observation do not last forever (earth centered solar system, flat earth, string theory, etc.). 
+
+However, I am not bashing the notion of a fact. With all of their faults, facts are amazing tools for discovery and growth and have made life continuously better over time. The word processor I am writing on is because of the incremental creation and updating of facts. Same with the warm room I am in, the well-preserved food in my refrigerator, and probably the very fact that I am alive and not dead already from some epidemic. I am also not suggesting that nothing is real outside of perception. While this philosophically flirtatious argument that our minds creates the world is tempting, I suspect existence will continue after I die, so something must be real outside of perception.
+
+What I am trying to get at is to understand why I am so disinterested, sometimes almost angry, at the discussion and theorizing of simple observational facts. Is the elevation of the mountain 8000’ feet? How the hell could I know? How can I even be sure what exactly it is you are saying? I suppose I can assume that we both understand and can conceptualize with decent accuracy the concept of a foot as a unit of measurement. I also can assume our perception isn’t clouded by polarizing places of spiritual habitation affecting our world view. These are big assumptions, and I am uncomfortable making so many of them (though I often do) in order to engage in a conversation that almost certainly be wrong. Facts are confusing and this topic seems like a waste of time, but I don’t know how to not think about it. 
+
+
+
