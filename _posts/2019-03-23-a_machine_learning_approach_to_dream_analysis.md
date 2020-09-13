@@ -5,11 +5,10 @@ permalink: /posts/2019/03/23/a-machine-learning-approach-to-dream-analysis/
 tags:
   -
 ---
-[![Screen-Shot-2019-03-01-at-8-45-26-AM.png](https://i.postimg.cc/yNtQ2FQ6/Screen-Shot-2019-03-01-at-8-45-26-AM.png)](https://postimg.cc/06G0wJ1h)
- 
-   *a t-SNE representation of the dream space of reddit users.*
 
-Humans dream. Sometimes our dreams are as touching as visiting a deceased loved one. Sometimes they are wild subconscious utterances drenched in symbolism. Sometimes they are as mundane as eating a sandwich. Regardless, as mysterious as the content of our dreams are, even more puzzling is how across cultures, humans often dream similar dreams.
+
+# H
+umans dream. Sometimes our dreams are as touching as visiting a deceased loved one. Sometimes they are wild subconscious utterances drenched in symbolism. Sometimes they are as mundane as eating a sandwich. Regardless, as mysterious as the content of our dreams are, even more puzzling is how across cultures, humans often dream similar dreams.
 
 As our modern culture has made large efforts to sever itself from our symbolic roots, dreams are not treated with the same respect as the more objective facets of our lives. From a lack of time and interest or from embarrassment and shame, many of us ignore our dreams, casting aside a valuable tool for self-understanding. More so, it not only takes a scholar of comparative religion to build a body of knowledge to wade through dream content, but a rebel willing to look empirically at mystical content. This is rare.
 
@@ -42,3 +41,8 @@ I passed my dream into my program and with no surprise, it categorized it into t
 What was even more exciting was that my program then presented me with the three most similar dreams from the original corpus. They were all about tidal waves and they all exhibited a similar mysterious quality as in my own. Reading through them gave me fresh insight to aid the very personal interpretation of my own dream, but even more, it was comforting to know that I was not alone with my obscure dreams.
 
 The phenomena of dreams are, and will likely remain, a great mystery. However, just because they appear mystical, immeasurable, and bizarre does not mean they should be considered beyond the pale of intellectual pursuit. Anything we can do to take our dreams seriously, to observe them with both empirical skepticism and open-minded curiosity, will be tremendously useful the pursuit of understanding ourselves.
+
+
+[![Screen-Shot-2019-03-01-at-8-45-26-AM.png](https://i.postimg.cc/yNtQ2FQ6/Screen-Shot-2019-03-01-at-8-45-26-AM.png)](https://postimg.cc/06G0wJ1h)
+ 
+   *a t-SNE representation of the dream space of reddit users.*
