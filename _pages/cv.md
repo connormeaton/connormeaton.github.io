@@ -8,8 +8,10 @@ redirect_from:
 ---
 
 # Curriculum Vitae
+
 **Connor Eaton**
 
+### Contact
 - connormeaton@gmail.com
 - Github: cmeaton
 - Linkedin: connormeaton
