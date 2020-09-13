@@ -7,8 +7,7 @@ tags:
 ---
 
 
-# H
-umans dream. Sometimes our dreams are as touching as visiting a deceased loved one. Sometimes they are wild subconscious utterances drenched in symbolism. Sometimes they are as mundane as eating a sandwich. Regardless, as mysterious as the content of our dreams are, even more puzzling is how across cultures, humans often dream similar dreams.
+Humans dream. Sometimes our dreams are as touching as visiting a deceased loved one. Sometimes they are wild subconscious utterances drenched in symbolism. Sometimes they are as mundane as eating a sandwich. Regardless, as mysterious as the content of our dreams are, even more puzzling is how across cultures, humans often dream similar dreams.
 
 As our modern culture has made large efforts to sever itself from our symbolic roots, dreams are not treated with the same respect as the more objective facets of our lives. From a lack of time and interest or from embarrassment and shame, many of us ignore our dreams, casting aside a valuable tool for self-understanding. More so, it not only takes a scholar of comparative religion to build a body of knowledge to wade through dream content, but a rebel willing to look empirically at mystical content. This is rare.
 
