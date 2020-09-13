@@ -9,12 +9,12 @@ redirect_from:
 
 # Curriculum Vitae
 
-**Connor Eaton**
 
 ### Contact
-- connormeaton@gmail.com
-- Github: cmeaton
-- Linkedin: connormeaton
+- **Name:** Connor Eaton
+- **Email:** connormeaton@gmail.com
+- **Github:** cmeaton
+- **Linkedin:** connormeaton
 
 ### Biographical Information
 Born October 31, 1991, Massachusetts, USA
