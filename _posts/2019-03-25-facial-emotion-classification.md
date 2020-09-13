@@ -1,9 +1,10 @@
+### Project Overview
+
 Emotionally perceptive AI is likely going to have huge positive and negative implications on our society. Regardless of how you feel about this technology (I’m both excited and terrified), it’s inevitable and it’s important to understand how it works. Whether you’re looking to get started in building emotional AI or if you want shed some light into black box of machine learning, this is for you.
 
 This project had two parts. The first was creating a support-vector classification model to predict facial emotion from images using facial landmarks, a 68 point coordinate system that maps onto the “moving parts” of the face. Then, this model was fed into a live video stream from a webcam, where it classifies the emotion of all present faces frame by frame, and returns a prediction in real time. See below:
 
-![](src/visualization/emotion_stream.gif)
-
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/1zK5MX7P/emotion-stream.gif' border='0' alt='emotion-stream'/></a><br /><a href='https://postimages.org/'>anonymous pictures website</a><br />
 
 ### Tools
 Many tools were used for this project, including python, pandas, numpy, matplotlib, sklearn, keras, Dlib and openCV.
