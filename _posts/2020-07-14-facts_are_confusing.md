@@ -9,23 +9,23 @@ tags:
 
 One of the most confusing statements to me is when someone says, ‘This is a fact.’. I do not know what this means. Mainly, I am troubled by two problems:
 
-PROBLEM 1:
+**PROBLEM 1:**
 What is a fact, and how do we trust it? Due to a variety of reasons, perhaps most commonly our inadequacy in perception, a fact is constantly invalidated and ideally, updated. As this process is never ending (or at least it appears to be), how is it that we have enough faith in a fact to accept it in its current state as valid, and build our perception of existence around it? 
 
-PROBLEM 2:
+**PROBLEM 2:**
 Facts are more available now than ever before thanks to the internet. While endless utility has been gained from the effortless and instantaneous sharing of facts, we are now faced with the conundrum that any objective phenomena that we may be attempting to describe most likely has a set of facts produced through empirical testing or at least carefully thought through by someone with more expertise in the relevant subject area than you. With this awareness (fact), one becomes troubled. How is it that one should communicate with others? If much of interpersonal communication is centered around the description of objective phenomena (i.e. What kind of tree is that? How tall are those mountains? Was Picasso Spanish or French?), should all communication be accompanied by an internet-based fact checking system (smartphone) or should we not use such a device and accept that all of our conversation about the description of objective phenomena is useless and wrong? If the latter option is the case, do we even care whether or not we are accurately describing the world, or are we doing something completely different?
 
 A fact, I think, is piece of language to explain a reliable phenomenon. While it is tempting to view a fact as a noun, something we can hold, manipulate, and use the way we do hammer, saw, or brush, a fact is better understood as a verb. In this sense, a fact is a process, specifically a process of limitation. A fact is the process of reducing the explanation-space of a problem from every possibility to one. 
   
 Take, for example, the fact that a mountain is 8000 feet tall. Before the fact from this statement can be assessed, several foundational sub-facts must are assumed. The first sub-fact is the fact that the mountain is a mountain. This is probably a fact. I say probably because in order to surely attribute a phenomenon to a fact, one must consult its definition. According to dictionary.com (all definitions will be taken from here), a mountain is: ‘a natural elevation of the earth's surface rising more or less abruptly to a summit, and attaining an altitude greater than that of a hill, usually greater than 2000 feet (610 meters)’. This definition (read fact) appears straightforward, but even this has much to unpack.
 
-Natural: ‘existing in or formed by nature (opposed to artificial)’. This one seems easy, sort of. Assuming that all things exist in or are formed by nature and that nature is the creative or arbitrary life-force of all things, everything is natural. I do not know what artificial means, for what could be opposite of this? The very definition of this word inspires more question than certainty,
+*Natural: ‘existing in or formed by nature (opposed to artificial)’*. This one seems easy, sort of. Assuming that all things exist in or are formed by nature and that nature is the creative or arbitrary life-force of all things, everything is natural. I do not know what artificial means, for what could be opposite of this? The very definition of this word inspires more question than certainty,
 
-Elevation: ‘the height to which something is elevated or to which it rises’. Elevation is an adjective, a descriptor, a metric. It is not a fact, but a tool used to create one. It’s a useful tool, for it can input any object and any consistent unit of measurement, and output a product, an elevation. When we use this tool, we all must be in agreement about its definition and consistent with the unit of measurement. 
+*Elevation: ‘the height to which something is elevated or to which it rises’*. Elevation is an adjective, a descriptor, a metric. It is not a fact, but a tool used to create one. It’s a useful tool, for it can input any object and any consistent unit of measurement, and output a product, an elevation. When we use this tool, we all must be in agreement about its definition and consistent with the unit of measurement. 
 
-Earth (1): (often initial capital letter) the planet third in order from the sun, having an equatorial diameter of 7926 miles (12,755 km) and a polar diameter of 7900 miles (12,714 km), a mean distance from the sun of 92.9 million miles (149.6 million km), and a period of revolution of 365.26 days, and having one satellite.
+*Earth (1): (often initial capital letter) the planet third in order from the sun, having an equatorial diameter of 7926 miles (12,755 km) and a polar diameter of 7900 miles (12,714 km), a mean distance from the sun of 92.9 million miles (149.6 million km), and a period of revolution of 365.26 days, and having one satellite.*
 
-Earth (1):  this planet as the habitation of humans, often in contrast to heaven and hell:to create a hell on earth.’
+*Earth (2):  this planet as the habitation of humans, often in contrast to heaven and hell:to create a hell on earth.’*
 
 Earth has many definitions, but one need not go further than the first two (earth_1 and earth_2) to discover the psychological split that the modern human is faced with. Earth_1 is an objective thing, an almost spherical object defined by its observable characteristics. The more advanced our instrumentation becomes, the more we know about this object. 
 
