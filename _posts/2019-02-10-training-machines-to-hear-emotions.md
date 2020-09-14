@@ -6,7 +6,6 @@ tags:
   -
 ---
 
-[![Screen-Shot-2019-02-13-at-9-48-46-AM.png](https://i.postimg.cc/3xBYHckC/Screen-Shot-2019-02-13-at-9-48-46-AM.png)](https://postimg.cc/BjXdTNcX)
 
 Human and machine interaction is becoming increasingly foundational to our society. From highly efficient automated call centers to surprisingly intimate companion machines, learning how to conduct life along side machines will be one of the major advancements and challenges of the 21st century. One of the principal components of fostering this cultural transition will be building machines that can predict our emotions, however irrational and incomprehensible they may sometimes seem. We generally understand machines, so it would be good if they generally understood us.
 
@@ -109,6 +108,11 @@ make_df(extract_features)
 
 ```
 
+To get an idea of what the waveforms look like, see the plot below contrasting a 'happy' verse an 'angry' waveform:
+
+[![Screen-Shot-2019-02-13-at-9-48-46-AM.png](https://i.postimg.cc/3xBYHckC/Screen-Shot-2019-02-13-at-9-48-46-AM.png)](https://postimg.cc/BjXdTNcX)
+
+
 As this was my first pass working with audio files, I decided to simplify the model by dropping sadness and fear, which were very difficult to distinguish for both humans and machine. Also, I decided to streamline my classification by using a binary positive-negative classification. For positive emotion I combined neutral and happiness and negative emotion I combined anger and disgust.
 
 ### Model and Results
@@ -142,7 +146,8 @@ I originally set out to build a model that predicted two classes, positive or ne
 
 Too late in the scope of the project timeline, I discovered the high-level benefits of pyAudioAnalysis. Building my model from the ground up in Librosa was a great exercise, but pyAudioAnalysis provides high-level functions to extract features and construct high performance classification models with relative ease. With pyAudioAnalysis, I was able to train a multiclass SVM model on the same training data used before with just a few lines of code. The new model was able to predict the emotional class of my own recorded speech utterances with probabilities in the 0.70-0.80 range. This is a very promising future direction for my work in audio analysis.
 
-Final Thoughts
+### Final Thoughts
+
 While I will likely remain torn about emotionally perceptive AI for some time, its progress is inevitable. Instead being that guy who complained that the invention of writing would atrophy our memories or that shovels would weaken our hands, I can think of no better approach than trying to understand this new technology. I care deeply about this issue, and I am eager to take part in building it, to watch it develop from an informed perspective, and to play a role in discussing its ethical implications.
 
 This is an amazing era to study the psychology and machine learning and I am so grateful to be somewhere in the middle. This intersection will greatly influence the way we interact with machines in the coming years, and I look forward to playing my role in shaping a meaningful future.
