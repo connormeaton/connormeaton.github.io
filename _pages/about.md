@@ -15,11 +15,12 @@ AI researcher and machine learning engineer. Currently a Research Scientist at A
 
 **Primary interests:**
   - Designing algorithms capable of predicting human affect/behavior as it manifests between conversing agents (human:human, human:machine).
-  - Gaining perspective on consciousness, intelligence, belief and meaning by intersecting ideas from neuroscience, literature, mythology, philosophy, art, and psychology and applying them through AI research.
+  - Gaining perspective on consciousness, intelligence, belief and meaning by intersecting ideas from evolutionary biology, literature, mythology, philosophy, and art and applying them through AI research.
   - Improving individual lives in ethical and useful ways through human-machine interaction grounded in scientific skepticism, historical literacy, and unintentional romanticism.
   
 **Other interests:**
   - Playing music (drums, guitar, banjo, piano, ukulele, harmonica, didjeridoo)
   - Reading
+  - The Wilderness
   - Brazillian Jiu Jitsu
-  - Evolutionary biology
+  - Challenging myself mentally and physically
