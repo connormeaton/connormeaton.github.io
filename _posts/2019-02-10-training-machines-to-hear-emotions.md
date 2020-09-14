@@ -108,7 +108,7 @@ make_df(extract_features)
 
 ```
 
-To get an idea of what the waveforms look like, see the plot below contrasting a 'happy' verse an 'angry' waveform:
+To get an idea of what the waveforms look like, see the plot below contrasting a 'neutral' verse an 'angry' waveform:
 
 [![Screen-Shot-2019-02-13-at-9-48-46-AM.png](https://i.postimg.cc/3xBYHckC/Screen-Shot-2019-02-13-at-9-48-46-AM.png)](https://postimg.cc/BjXdTNcX)
 
