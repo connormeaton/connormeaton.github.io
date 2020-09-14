@@ -1,6 +1,6 @@
 ---
 title: 'Facts are confusing'
-date: 2020-07-214
+date: 2020-07-14
 permalink: /posts/2020/07/facts-are-confusing/
 tags:
   -
