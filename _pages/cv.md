@@ -67,9 +67,4 @@ Managed the design and manufacturing of high-end minimalist performance footwear
 ### Certifications
 - 2018		Seven Principles of Making Marriage Work Leader, The Gottman Institute
 
-### Skills & Interests
-- Computer programming languages: Python, SQL, R
-- Machine Learning: Frameworks: Deep learning, affective computing, natural language processing, computer vision, audio analysis, supervised and unsupervised learning, cloud computing; Libraries: Tensorflow 1&2, Keras, PyTorch, Theano, OpenFace, OpenCV, OpenPose,  Scikit-Learn, NLTK, Gensim, PyDub, PyAudioAnalysis, Librosa, Pandas, Numpy, Flask, Selenium, BeautifulSoup
-- Miscellaneous: music composition (piano, guitar, banjo, ukulele, harmonica, drum set & percussion), fiction & non-fiction writing, literature, philosophy, brazillian jiu jitsu, neuroscience, evolutionary biology, leatherwork, learning, AI, consciousness
-
 
