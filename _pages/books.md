@@ -195,7 +195,7 @@ The drive to pleasure can be so great that individuals can willingly lock themse
 
 ## I
 
-## Irvine, William
+### Irvine, William
 
 **A Guide to the Good Life: The Ancient Art of Stoic Joy**
 
@@ -383,6 +383,14 @@ Reason and skepticism are miraculous tools and there is no limit to the societal
 
 
 ## S
+
+### Shellenberger, Michael
+
+**Apocalypse Never: Why Environmental Alarmism Hurts Us All**
+
+*(2020)*
+
+To truly make change, we must critically examine all of our options, finding some way to divorce how we feel about something from how we expect it to work.
 
 ### Solzehnyztsin, Aleksandr
 
