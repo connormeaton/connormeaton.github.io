@@ -22,6 +22,6 @@ AI researcher and machine learning engineer. Currently a Research Scientist at A
 **Other interests:**
   - Playing music (drums, guitar, banjo, piano, ukulele, harmonica, didjeridoo)
   - Reading
-  - The Wilderness
+  - The wilderness
   - Brazillian Jiu Jitsu
   - Challenging myself mentally and physically
