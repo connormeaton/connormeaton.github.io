@@ -23,6 +23,8 @@ Before we begin, I want to make clear when I use the term ‘emotionally-percept
 ### GOODS < BADS
 
 From my perspective, which regrettably encapsulates the optimistic romantic full of ideals, the pessimistic nihilist tainted with cynicism, the scientist fascinated with understanding new things, and the luddite intent on smashing things that haven’t proven themselves desirable, it looks like EAI’s bads outweigh the goods. To schematically understand this, see the ‘EAI Quadrants of Influence’ figure below.
+
+[![Picture1.png](https://i.postimg.cc/0NBt0xGC/Picture1.png)](https://postimg.cc/gw3qGCTw)
 	 
 In this figure, you will find four quadrants on an x-y plane. The x-axis represents the overall goodness towards society, and the y-axis indicates the likelihood of that outcome occurring. Each quadrant is filled with a hypothetical scenario(s) according to its perceived likelihood and goodness.
 	
