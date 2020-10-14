@@ -1,4 +1,10 @@
-
+---
+title: 'Alternatives to Selling Out'
+date: 2020-10-12
+permalink: /posts/2020/10/alternatives-to-selling-out/
+tags:
+  -
+---
 
 ### TLDR;
  
