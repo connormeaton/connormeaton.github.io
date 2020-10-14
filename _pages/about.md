@@ -15,8 +15,8 @@ AI researcher and machine learning engineer. Currently a Research Scientist at A
 
 **Primary interests:**
   - Designing algorithms capable of predicting human affect/behavior as it manifests between conversing agents (human:human, human:machine).
-  - Gaining perspective on consciousness, intelligence, belief and meaning by intersecting ideas from evolutionary biology, literature, mythology, philosophy, and art and applying them through AI research.
-  - Improving individual lives in ethical and useful ways through human-machine interaction (if/when simpler tools are ineffective) grounded in scientific skepticism, historical literacy, and unintentional romanticism.
+  - Gaining perspective on consciousness and intelligence through AI research.
+  - Understanding the role of morality, belief, and religous/spiritual experience in modern life.
   - Trying to figure out what it means to be a human.
   
 **Other interests:**
