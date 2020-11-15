@@ -1,3 +1,4 @@
+---
 title: 'Batman and Bonhoeffer'
 date: 2020-11-15
 permalink: /posts/2020/11/batman-and-bonhoeffer/
