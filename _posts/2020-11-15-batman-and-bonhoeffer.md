@@ -10,6 +10,8 @@ tags:
 
 The Batman story, if we take it seriously enough, provides us with a rich source of moral content that can help us understand our ideals and ultimately, our actions. 
 
+
+
 I was never a fan of comic books. Sure, there are ample photographs of me wearing capes, but my childhood devotions to dinosaurs outcompeted any spare time I may have had to idolize super-heroes. As a result, my admiration for Christopher Nolan’s Batman adaptation carries zero nostalgia. Instead, I respectfully uphold the film not only as an entertaining piece of drama, but as a deserving contribution to the Western cultural canon. Sure, a trained art critic may scoff at the idea of placing so much value of something with so many explosions, and maybe they’re right, but I don’t care. The moral and psychological contents embedded within the story ignite too many questions to ignore.
 
 Such questions include; Why must the hero bear the weight of the entire world in a state of profound loneliness while the villain need only dissolve into existence? Or; Is the Batman narrative enough of a moral foundation to construct a meaningful life upon? I would like to explore these questions as I have time, but for now, I am most drawn to the following:
