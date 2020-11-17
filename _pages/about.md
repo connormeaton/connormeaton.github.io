@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Connor Eaton
-Seattle, WA · connormeaton@gmail.com
+USA · connormeaton@gmail.com
   
 AI researcher and machine learning engineer. Currently a Research Scientist at Affective Software, Inc.
 
