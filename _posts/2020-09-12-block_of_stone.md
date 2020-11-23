@@ -1,5 +1,5 @@
 ---
-title: 'Block of Stone'
+title: 'block of stone'
 date: 2020-09-12
 permalink: /posts/2020/09/block-of-stone/
 tags:
