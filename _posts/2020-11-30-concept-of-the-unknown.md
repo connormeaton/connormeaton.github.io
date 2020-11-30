@@ -6,7 +6,7 @@ tags:
   -
 ---
 ## Concept-of-the-Unknown
-* A theory of how we deal with what we do not know. *
+* _A theory of how we deal with what we do not know._
 
 Our limited perception gives rise to the infinite nature of the Unknown (what we don't know). Despite the omnipotence of the Unknown, existence demands action. To act with incomplete information necessitates a conceptual framework for dealing with the Unknown. This Concept-of-the-Unknown (CoU) encompasses the general process of prediction, which can be more specifically thought of as defining objective functions (goal specification), information filtering, classification, and optimization. As I've been experimenting with the graphical representation of ideas, here's an attempt to articulate the CoU as such. 
 
