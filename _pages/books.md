@@ -126,6 +126,12 @@ Of the many varying foundations one can build existence upon, all crumble to the
 
 ## F
 
+### Feldman-Barrett, Lisa
+
+*(2020)*
+
+Affect is biological, emotion is conceptual.
+
 ### Forencich, Frank
 
 **Play as if Your Depends on It**
