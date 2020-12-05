@@ -6,7 +6,7 @@ tags:
   -
 ---
 
-My tele needed a case so I made one out mostly scrap materials lying around. I haven't made a physical thing in awhile and it reminded me how honest you have to be squaring edges. I hope to carry this lesson over and attempt to square my ideas so that they can be useful in the physical world.
+My tele needed a case so I made one out mostly scrap materials lying around. I haven't made a physical thing in awhile and it reminded me how honest you have to be squaring edges. I hope to carry this lesson over and square my ideas so that they can be useful in the physical world.
 
 
 <a href="https://postimg.cc/XGkV3dQd" target="_blank"><img src="https://i.postimg.cc/1tL4GKFC/IMG-5788.jpg" alt="IMG-5788"/></a><br/><br/>
