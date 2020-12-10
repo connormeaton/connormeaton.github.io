@@ -6,7 +6,7 @@ tags:
   -
 ---
 
-### TLDR; 
+### TL;DR
 
 The Batman story, if we take it seriously enough, provides us with a rich source of moral content that can help us understand our ideals and ultimately, our actions. 
 
