@@ -6,7 +6,7 @@ tags:
   -
 ---
 
-### TLDR;
+### TL;DR
  
 Only when we are free to deconstruct our constructions can we morally pursue technological progression.
 
