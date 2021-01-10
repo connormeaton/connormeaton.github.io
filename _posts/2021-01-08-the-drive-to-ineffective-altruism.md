@@ -1,4 +1,4 @@
-	---
+---
 title: 'The Drive to Ineffective Altruism'
 date: 2019-02-10
 permalink: /posts/2021/01/the-drive-to-ineffective-altruism/
