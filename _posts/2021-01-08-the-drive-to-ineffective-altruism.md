@@ -10,6 +10,8 @@ tags:
 
 Our morality should be updated to make room for more data-driven rationality, but we must maintain an irrational sliver of compassion to insulate us against losing our humanity.
 
+
+
 Recently I finished Dostoevsky’s “The Idiot” and listened to Sam Harris’ podcast with William Macaskill on effective altruism in the same week. This was confusing. After jumping into the confluence of these two credible but polarizing moral authorities, I have less clarity on the “what do I do?” problem than when I remained on dry land, ignorant to the depths of these two tributaries of thought. Despite the apparent unsolvable nature of this problem, my time trying to stay afloat in these immiscible currents has yielded two ideas, the drive to ineffective altruism and the 1v99 paradox. I think they might be useful in understanding morality and particularly when defining objective and cost functions for decision making. 
 
 Effective altruism (EA) is a rich and developed community of which I am just beginning to learn about. I’m probably missing something, but EA seems to be a methodology for empirically evaluating the efficacy of an altruistic act according to some previously defined objective function, such as the minimization of unnecessary suffering. I admit to having held biases against the idea due to its hyper-rational roots, which the Hayekian in me tends to associate with naivety as much as I do progress. After closer inspection, I still see naivety (which I’ll get into later), but less than I imagined and more progress potential than I expected. 
