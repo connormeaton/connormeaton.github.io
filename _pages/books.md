@@ -109,6 +109,12 @@ Even the sharpest axe shatters into a million pieces when attempting to sever it
 
 It feels like we are the cunning spider spinning the intricate web of our great Idea, but if we are not careful, we become the fly.
 
+**The Idiot**
+
+*(2021)*
+
+To act in full compassion is beautiful, but it doesn't appear to minimize suffering at a comprehendable time scale, leaving me less sure of the human ability to articulate moral perfection than ever before.
+
 **Notes from the Underground**
 
 *(2018)*
