@@ -35,7 +35,7 @@ Assisted in numerous interdisciplinary research projects in the Horticultural La
 
 ### Industry Positions
 - 2019 –	*current*,	Research Scientist, Affective Software, Inc., Seattle, WA
-Research scientist building machine learning models for multi-modal emotion classification. Using state of the art techniques for natural language processing, computer vision, and audio analysis to power consumer applications.
+Research scientist building machine learning models for multi-modal emotional/physiological classification. Using state of the art techniques in signal processing, natural language processing, computer vision, and audio analysis to power consumer applications.
 - 2018 –	*current*,	Data Analyst & Research Assistant, The Gottman Institute, Seattle, WA
 Applying emotional analysis (Specific Affect Coding) to couples in clinical/lab setting to improve therapeutic outcomes. Involved in observational research and managing data pipelines, visualization, and statistical analysis.
 - 2018 –	2020,	    Educator, Sequoia Immersions, LLC, Seattle, WA
