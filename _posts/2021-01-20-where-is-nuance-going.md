@@ -27,7 +27,7 @@ These are powerful forces and I understand how tightly they grip our minds, but 
 -	I understand why people violently stormed the capitol. I also understand why those who partook are gullible, criminal, misguided and anti-patriotic.
 -	I understand why people voted for Trump. I also understand why people voted for Biden.
 -	I understand the practical and symbolic drive for gun ownership. I also understand the importance of limiting their use.
--	I understand the importance of supporting as many immigrants and refugees as we can. I also understand the need for restrictionism.
+-	I understand the importance of supporting as many immigrants and refugees as we can. I also understand arguments for restrictionism.
 -	I understand why we need governments to protect us and regulate us. I also understand the inefficacy of most government institutions.
 
 ### SOCIAL
@@ -47,6 +47,6 @@ These are powerful forces and I understand how tightly they grip our minds, but 
 -	I understand that we should invest more time, resources, and passion into problems like malaria and soil erosion than we do space exploration. I also understand the utility of inter-planetary travel for the long-term flourishing of humanity. 
 
 
-I really don’t think any of the statements above should be controversial, but I understand why some would read them as such. It seems like reasons I posited above have really turned up our outrage dials and turned down our nuance dials. I really hope there is a solution to this problem, because the very nature of shared-reality (something we’ve always taken for granted) rests upon it. 
+I really don’t think any of the statements above should be controversial, but I understand why some would read them as such. It seems like reasons I posited above have really turned up our outrage dials and turned down our nuance dials. I really hope there is a solution to this problem, because the very nature of shared-reality (again, something we’ve always taken for granted) rests upon it. 
 
-I also hope that there is a more efficient solution than conversation, which is analogous to saying that planting a pinecone is a sufficient solution to deforestation. If anyone out there in this cold and weird internet void has any ideas, let me know.
+I also hope that there is a more efficient solution to this than conversation, which is analogous to saying that planting a pinecone is a sufficient solution to deforestation. If anyone out there in this cold and weird internet void has any ideas, let me know.
