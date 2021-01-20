@@ -1,7 +1,7 @@
 ---
 title: 'Where is nuance going?'
 date: 2021-01-20
-permalink: /posts/2021/01/where-is-nuance-going?/
+permalink: /posts/2021/01/where-is-nuance-going/
 tags:
   -
 ---
