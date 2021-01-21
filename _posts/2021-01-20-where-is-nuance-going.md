@@ -7,12 +7,15 @@ tags:
 ---
 
 
-I am very concerned that we are losing our capacity for nuance. Many things are tethered to nuance, including but not limited to empathy, grace, and reason. If we lose one, we might lose them all. The very notion of shared-reality rests upon this foundation and we have always taken its presence for granted. I don’t know what society would look like in its absence.
+I am very concerned that we are losing our capacity for nuance. Many things are tethered to nuance, including but not limited to empathy, forgiveness, and reason. If we lose one, we might lose them all. Shared reality rests upon this foundation and we have always taken its presence for granted. I don’t know what society would look like in its absence.
 	
-Let me bring this down to Earth. I often have the confusing experience of defending sides I don’t necessarily agree with during conversation. I do this because most, if not all ideas, contain some fraction of value worth discussion.  At the very least, such ideas are espoused by people, and I’m willing to go as far as saying that those people matter. I also do this because my perspective is biologically constrained, rendering all of my convictions incomplete. This implies that whatever I believe, regardless of how certain I am, is probably wrong. Herein lies nuance.
-	
-Despite my trivial crusade for nuance, I rarely meet others in real life who are willing to, or interested in, understand both sides. This makes me wonder if I am on to something or wildly off my rocker. I’m pretty sure it’s the former, and I’m pretty sure several powerful forces prevent people from realizing nuance. Some of these forces may include:
+For example, I often have the confusing experience of defending sides I don’t necessarily agree with during conversation. I do this to prevent one-sided bashing. This is a waste of time because no one actually learns anything, unless the goal is to find out who can get the most offended, enraged, or excited by an idea. 
 
+From my perspective, most if not all ideas, contain _some_ fraction of value worth serious discussion. At the very least, such ideas are espoused by people, and I’m willing to make the claim that those people matter. Also, my, perspective is biologically constrained, rendering all of my convictions incomplete. This implies that whatever I believe, regardless of how certain I am, is probably wrong. This goes for everyone, which is why we need to talk everything through in order to understand anything. This requires travelling through a dark forest of emotion whose passage requires a light for guidance. Herein lies nuance.
+	
+Despite my trivial crusade for nuance, I rarely meet others in real life who are willing to understand both sides. I often fail at this task myself and fall into emotionally triggered one-sidedness. I’m pretty sure several powerful forces prevent us from realizing nuance. Some of these forces may include:
+
+-       poor vagal tone
 -	a prerequisite puritanical conformity of beliefs for group membership
 -	the construction of identity from groups
 -	the prevailing assumption that one or more of your protected classes dictates the way you do or should think
@@ -20,7 +23,9 @@ Despite my trivial crusade for nuance, I rarely meet others in real life who are
 -	looking to influencers instead of technical experts to explain complex phenomena
 -	the subtle ideological purity of the institutions we choose to put our faith in (ex. Liberals think Fox is conservative and the New York Times is neutral, and vice versa). 
 
-These are powerful forces and I understand how tightly they grip our minds, but if I’m not crazy, then we have to find a way to wiggle out of their grasp. To better understand what I’m talking about, here are some examples:
+These are powerful forces and I understand how tightly they grip our minds. However comforting it may be to have our thinking constrained by any of the above forces, we sacrifice our freedom and creativity. If we want to learn, grow, or make anything new, then we have to find a way to wiggle out of their grasp. 
+
+Unfortunately, our current social climate makes it scary to wiggle your way out into the lonely yet exhilirating space of individuality. However, if we choose to follow the same daemon that led Socrates to lay the foundation of Western philosophy (and his own death...), we can. The first step is saying what we think, even if its wrong, stupid, or offensive. To better understand what I’m talking about, here are some examples of some of my thoughts, which may be wrong, stupid, and/or offensive:
 
 ### POLITICS
 
@@ -28,11 +33,11 @@ These are powerful forces and I understand how tightly they grip our minds, but 
 -	I understand why people voted for Trump. I also understand why people voted for Biden.
 -	I understand the practical and symbolic drive for gun ownership. I also understand the importance of limiting their use.
 -	I understand the importance of supporting as many immigrants and refugees as we can. I also understand arguments for restrictionism.
--	I understand why we need governments to protect us and regulate us. I also understand the inefficacy of most government institutions.
+-	I understand why we need governments to protect us and regulate us. I also understand the bureaucratic inefficacy of most government institutions.
 
 ### SOCIAL
 
--	I understand the motives behind anti-racism. I also understand the many dangers behind the idea.
+-	I understand the motives behind anti-racism. I also understand the obvious and real dangers behind the idea.
 -	I understand the post-modern drive to destroy rigid objectivity. I also understand the societal/individual need for classification and limitation.
 -	I understand the importance of safe and affordable access to abortions. I also understand how many view abortions as a philosophical/spiritual tragedy.
 -	I understand the body positivity movement and its efforts to reduce the never-ending barrage of stigma people receive about their body shape. I also understand the medical risk of normalizing obesity.
@@ -43,10 +48,10 @@ These are powerful forces and I understand how tightly they grip our minds, but 
 -	I understand why climate change probably represents existential risk. I also understand that climate science is not settled, and we could be wrong about much of it.
 -	I understand why we should be very skeptical of nuclear energy. I also understand why it, as of now, represents our best option for safe and effective energy.
 -	I understand why people think that they think vaccines are completely safe. I also understand why people think that they think they are unsafe.
--	I understand the drive to turn down the dials of sex and gender rigidity. I also understand the danger of demanding that people believe that male and female are not valid biological categories.
+-	I understand the drive to turn down the dials of rigid sex and gender classification. I also understand the danger of demanding that people believe that male and female are not valid biological categories.
 -	I understand that we should invest more time, resources, and passion into problems like malaria and soil erosion than we do space exploration. I also understand the utility of inter-planetary travel for the long-term flourishing of humanity. 
 
 
-I really don’t think any of the statements above should be controversial, but I understand why some would read them as such. It seems like reasons I posited above have really turned up our outrage dials and turned down our nuance dials. I really hope there is a solution to this problem, because the very nature of shared-reality (again, something we’ve always taken for granted) rests upon it. 
+I really don’t think any of the statements above should be controversial, but I understand why some would read them as such. My hope is that anyone reading can grapple with them in the quiet of their minds, free of any external pressure and judgement urging them to denounce one side of whichever statement is most triggering. Hopefully, this practice is a small step towards solving our nuance problem, because the very nature of shared-reality (again, something we’ve always taken for granted) rests upon it. 
 
-I also hope that there is a more efficient solution to this than conversation, which is analogous to saying that planting a pinecone is a sufficient solution to deforestation. If anyone out there in this cold and weird internet void has any ideas, let me know.
+I also hope that there is a more efficient solution to this than conversation or obscure essay writing.  Accepting these tools as viable solutions is analogous to   thinking we are going to solve deforestation by planting trees. In theory, this works, but we must remember trees grow slowly, fall quickly, and are cut down for very complicated reasons. If anyone out there in this cold and weird internet void has any ideas, let me know.
