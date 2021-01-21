@@ -15,7 +15,7 @@ From my perspective, most if not all ideas, contain _some_ fraction of value wor
 	
 Despite my trivial crusade for nuance, I rarely meet others in real life who are willing to understand both sides. I often fail at this task myself and fall into emotionally triggered one-sidedness. I’m pretty sure several powerful forces prevent us from realizing nuance. Some of these forces may include:
 
--       poor vagal tone
+-	poor vagal tone
 -	a prerequisite puritanical conformity of beliefs for group membership
 -	the construction of identity from groups
 -	the prevailing assumption that one or more of your protected classes dictates the way you do or should think
