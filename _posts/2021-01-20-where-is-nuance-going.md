@@ -1,7 +1,7 @@
 ---
 title: 'Where is nuance going?'
 date: 2021-01-20
-permalink: /posts/2021/01/where-is-nuance-going?/
+permalink: /posts/2021/01/where-is-nuance-going/
 tags:
   -
 ---
@@ -41,7 +41,7 @@ Unfortunately, our current social climate makes it scary to wiggle your way out 
 -	I understand the motives behind anti-racism. I also understand the obvious and real dangers behind the idea.
 -	I understand the post-modern drive to destroy rigid objectivity. I also understand the societal/individual need for classification and limitation.
 -	I understand the importance of safe and affordable access to abortions. I also understand how many view abortions as a philosophical/spiritual tragedy.
--	I understand the body positivity movement and its efforts to reduce the never-ending barrage of stigma people receive about their body shape. I also understand the medical risk of normalizing obesity.
+-	I understand the body positivity movement and its efforts to reduce the never-ending barrage of stigma people receive about their body shape. I also understand arguments for the medical risk of normalizing obesity.
 -	I understand why some people are atheists. I understand why some people are fundamental religious believers.
 
 ### SCIENCE
@@ -53,6 +53,6 @@ Unfortunately, our current social climate makes it scary to wiggle your way out 
 -	I understand that we should invest more time, resources, and passion into problems like malaria and soil erosion than we do space exploration. I also understand the utility of inter-planetary travel for the long-term flourishing of humanity. 
 
 
-I really don’t think any of the statements above should be controversial, but I understand why some would read them as such. My hope is that anyone reading can grapple with them in the quiet of their minds, free of any external pressure and judgement urging them to denounce one side of whichever statement is most triggering. Hopefully, this practice is a small step towards solving our nuance problem, because the very nature of shared-reality (again, something we’ve always taken for granted) rests upon it. 
+I really don’t think any of the statements above should be controversial, but I understand why some would read them as such (I'll bet I could guess which ones!). My hope is that anyone reading can grapple with them in the quiet of their minds, free of any external pressure and judgement urging them to denounce one side of whichever statement is most triggering. Hopefully, this practice is a small step towards solving our nuance problem, because the very nature of shared-reality (again, something we’ve always taken for granted) rests upon it. 
 
 I also hope that there is a more efficient solution to this than conversation or obscure essay writing.  Accepting these tools as viable solutions is analogous to   thinking we are going to solve deforestation by planting trees. In theory, this works, but we must remember trees grow slowly, fall quickly, and are cut down for very complicated reasons. If anyone out there in this cold and weird internet void has any ideas, let me know.
