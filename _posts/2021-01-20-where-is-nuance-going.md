@@ -13,33 +13,33 @@ For example, I often have the confusing experience of defending sides I don’t 
 
 From my perspective, most if not all ideas, contain _some_ fraction of value worth serious discussion. At the very least, such ideas are espoused by people, and I’m willing to make the claim that those people matter. Also, my, perspective is biologically constrained, rendering all of my convictions incomplete. This implies that whatever I believe, regardless of how certain I am, is probably wrong. This goes for everyone, which is why we need to talk everything through in order to understand anything. This requires travelling through a dark forest of emotion whose passage requires a light for guidance. Herein lies nuance.
 	
-Despite my trivial crusade for nuance, I rarely meet others in real life who are willing to understand both sides. I often fail at this task myself and fall into emotionally triggered one-sidedness. I’m pretty sure several powerful forces prevent us from realizing nuance. Some of these forces may include:
+Despite my trivial crusade for nuance, I often fail at this task and fall into emotionally triggered one-sidedness. I’m pretty sure several powerful forces prevent us from realizing nuance. Some of these forces may include:
 
--	the natural human tendency to be a part of a group as social animals
+-	the natural human tendency towards group membership
 -	a puritanical conformity of beliefs as a prerequisite for group membership
 -	the construction of identity from groups
 -	the prevailing assumption that one or more of your protected classes dictates the way you do or should think
 -	the looming threat of social media shaming
 -	looking to influencers instead of technical experts to explain complex phenomena
--	the subtle ideological purity of the institutions we choose to put our faith in (ex. Liberals think Fox is conservative and the New York Times is neutral, and vice versa). 
+-	the subtle ideological purity of the institutions we choose to put our faith in (ex. Liberal-tilted people usually think Fox is conservative and the New York Times is neutral, and vice versa). 
 
 These are powerful forces and I understand how tightly they grip our minds. However comforting it may be to have our thinking constrained by any of the above forces, we sacrifice our freedom and creativity. If we want to learn, grow, or make anything new, then we have to find a way to wiggle out of their grasp. 
 
-Unfortunately, our current social climate makes it scary to wiggle your way out into the lonely yet exhilirating space of individuality. However, if we choose to follow the same daemon that led Socrates to lay the foundation of Western philosophy (and his own death...), we can. The first step is saying what we think, even if its wrong, stupid, or offensive. To better understand what I’m talking about, here are some examples of some of my thoughts, which may be wrong, stupid, and/or offensive:
+Unfortunately, our current social climate makes it scary to wiggle out into the lonely yet exhilirating space of individuality. However, if we choose to follow the same daemon that led Socrates to lay the foundation of Western philosophy (...and his own death...), we can. The first step is saying what we think, even if its wrong, stupid, or offensive. To better understand what I’m talking about, here are some examples of some of my thoughts, which may be wrong, stupid, and/or offensive. I won't explain my logic behind them because its complicated, and that's the point. Each statement deserves an essay, a disertation, a book, or most importantly, an honest conversation between interlocutors commited to changing their minds when presented with compelling evidence. I'd like to think I'm one of them and I hope you are too. If so, let's talk.
 
 ### POLITICS
 
 -	I understand why people violently stormed the capitol. I also understand why those who partook are gullible, criminal, misguided and anti-patriotic.
 -	I understand why people voted for Trump. I also understand why people voted for Biden.
--	I understand the practical and symbolic drive for gun ownership. I also understand the importance of limiting their use.
+-	I understand the practical and symbolic drive for gun ownership. I also understand the importance of banning their use/ownership.
 -	I understand the importance of supporting as many immigrants and refugees as we can. I also understand arguments for restrictionism.
 -	I understand why we need governments to protect us and regulate us. I also understand the bureaucratic inefficacy of most government institutions.
 
 ### SOCIAL
 
--	I understand the motives behind anti-racism. I also understand the obvious and real dangers behind the idea.
+-	I understand the motives behind anti-racism. I also understand that there are real dangers behind the idea.
 -	I understand the post-modern drive to destroy rigid objectivity. I also understand the societal/individual need for classification and limitation.
--	I understand the importance of safe and affordable access to abortions. I also understand how many view abortions as a philosophical/spiritual tragedy.
+-	I understand the importance of safe and affordable access to abortions. I also understand why so many view abortions as a philosophical/spiritual tragedy.
 -	I understand the body positivity movement and its efforts to reduce the never-ending barrage of stigma people receive about their body shape. I also understand arguments for the medical risk of normalizing obesity.
 -	I understand why some people are atheists. I understand why some people are fundamental religious believers.
 
@@ -48,7 +48,7 @@ Unfortunately, our current social climate makes it scary to wiggle your way out 
 -	I understand why climate change probably represents existential risk. I also understand that climate science is not settled, and we could be wrong about much of it.
 -	I understand why we should be very skeptical of nuclear energy. I also understand why it, as of now, represents our best option for safe and effective energy.
 -	I understand why people think that they think vaccines are completely safe. I also understand why people think that they think they are unsafe.
--	I understand the drive to turn down the dials of rigid sex and gender classification. I also understand the danger of demanding that people believe that male and female are not valid biological categories.
+-	I understand the drive to turn down the dials of rigid sex and gender classification. I also understand the danger of demanding that people believe male and female are not valid biological categories.
 -	I understand that we should invest more time, resources, and passion into problems like malaria and soil erosion than we do space exploration. I also understand the utility of inter-planetary travel for the long-term flourishing of humanity. 
 
 
