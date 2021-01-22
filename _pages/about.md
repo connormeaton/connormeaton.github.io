@@ -20,8 +20,8 @@ AI researcher and machine learning engineer. Currently a Research Scientist at A
   - Trying to figure out what it means to be a human.
   
 **Other interests:**
-  - Playing music (drums, guitar, banjo, piano, ukulele, harmonica, didjeridoo)
+  - Playing music (drum set, guitar, banjo, piano, ukulele, harmonica, didjeridoo)
   - Reading
   - The wilderness
   - Brazillian Jiu Jitsu
-  - Challenging myself mentally and physically
+  - Surfing
