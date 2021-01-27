@@ -129,6 +129,14 @@ Of the many varying foundations one can build existence upon, all crumble to the
 
 ## E
 
+### Eliade, Mercia
+
+**History of Religious Ideas: Part 1**
+
+*(2020)*
+
+Religous thinking is the root of cultural genesis.
+
 
 ## F
 
@@ -316,6 +324,14 @@ Inequality can only be slain once and for all by burning down the very idea of v
 *(2018)*
 
 Ideas are infalliable, but life without blood and sweat is not living.
+
+### Murray, Douglas.
+
+**The Madness of Crowds**
+
+*(2020)*
+
+One of the contemporary fruits of the struggle for meaning-making mechanisms since the collapse of shared (or forced) structures of meaning is the attraction to use gender, race, and identity for theories-of-everything.
 
 
 ## N
