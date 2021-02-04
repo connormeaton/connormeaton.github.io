@@ -20,8 +20,8 @@ AI researcher and machine learning engineer. Currently a Research Scientist at A
   - Understanding the role of morality, belief, and religous/spiritual experience in modern life.
   
 **Other interests:**
-  - Playing music [Primary: drums (mostly jazz), Secondary: guitar, banjo, piano, ukulele, harmonica, didjeridoo]
-  - Reading
-  - The wilderness
-  - Brazillian Jiu Jitsu
-  - Surfing
+  - playing music [_primary_: drums (mostly jazz), _secondary_: guitar, banjo, piano, ukulele, harmonica, didjeridoo]
+  - reading
+  - the wilderness
+  - brazillian jiu jitsu
+  - surfing
