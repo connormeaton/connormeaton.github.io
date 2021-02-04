@@ -49,8 +49,8 @@ Managed the design and manufacturing of high-end minimalist performance footwear
 - Eaton, C., Sideman, R. G., Hutton, M., Hoskins, B., Sideman, E. (2015). Effects of Varying Potassium Levels on Yields and Petiole Potassium Levels for Organically Fertilized High Tunnel Tomato. HortScience, 50(9), S373-S373.
 
 ### Conference Presentations
-- 2016	Yield and Soluble Solids Content of Winter-grown Spinach in Unheated High Tunnels in New England. Graduate Student Research Conference. University of New Hampshire. April 8th, 2016, Durham, NH.
-- 2015	Effects of Varying Potassium Levels on Yields and Petiole Potassium Levels for Organically Fertilized High Tunnel Tomato. American Society for Horticultural Science, August 7th, 2015, New Orleans, LO.
+- Yield and Soluble Solids Content of Winter-grown Spinach in Unheated High Tunnels in New England. Graduate Student Research Conference. University of New Hampshire. April 8th, 2016, Durham, NH.
+- Effects of Varying Potassium Levels on Yields and Petiole Potassium Levels for Organically Fertilized High Tunnel Tomato. American Society for Horticultural Science, August 7th, 2015, New Orleans, LO.
 
 ### Grants
 - 2014		Sustainable Agriculture Research & Education Graduate Student Grant. GNE14-077
