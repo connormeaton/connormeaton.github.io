@@ -14,10 +14,10 @@ USA · connormeaton@gmail.com
 AI researcher and machine learning engineer. Currently a Research Scientist at Affective Software, Inc.
 
 **Primary interests:**
-  - Designing algorithms capable of predicting human affect/behavior as it manifests between conversing agents (human:human, human:machine).
-  - Understanding concept formation and language through AI research.
-  - Safe integration of AI and humanity.
-  - Understanding the role of morality, belief, and religous/spiritual experience in modern life.
+  - designing algorithms capable of predicting human affect/behavior as it manifests between conversing agents (human:human, human:machine)
+  - understanding concept formation and language through AI research
+  - safe integration of AI and humanity
+  - understanding the role of morality, belief, and religous/spiritual experience in modern life
   
 **Other interests:**
   - playing music [_primary_: drums (mostly jazz), _secondary_: guitar, banjo, piano, ukulele, harmonica, didjeridoo]
