@@ -44,8 +44,9 @@ Co-facilitating psychoeducational wilderness couples retreats using the research
 Managed the design and manufacturing of high-end minimalist performance footwear.
 
 ### Scientific Publications
-- 2018	Orde, K. M., Eaton, C., & Sideman, R. G. (2018). Yield and Soluble Solids Content of Winter-grown Spinach in Unheated High Tunnels in New England. HortScience, 53(5), 638-645. doi:10.21273/hortsci12956-18.  
-- 2016	Eaton, C. (2016). Year-round management of high tunnel production systems: spinach and tomato (Master’s thesis, University of New Hampshire, Durham, NH). 
+- Orde, K. M., Eaton, C., & Sideman, R. G. (2018). Yield and Soluble Solids Content of Winter-grown Spinach in Unheated High Tunnels in New England. HortScience, 53(5), 638-645. doi:10.21273/hortsci12956-18.  
+- Eaton, C. (2016). Year-round management of high tunnel production systems: spinach and tomato (Master’s thesis, University of New Hampshire, Durham, NH).
+- Eaton, C., Sideman, R. G., Hutton, M., Hoskins, B., Sideman, E. (2015). Effects of Varying Potassium Levels on Yields and Petiole Potassium Levels for Organically Fertilized High Tunnel Tomato. HortScience, 50(9), S373-S373.
 
 ### Conference Presentations
 - 2016	Yield and Soluble Solids Content of Winter-grown Spinach in Unheated High Tunnels in New England. Graduate Student Research Conference. University of New Hampshire. April 8th, 2016, Durham, NH.
