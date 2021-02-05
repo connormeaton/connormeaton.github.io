@@ -19,9 +19,9 @@ Born October 31, 1991, Massachusetts, USA
 U.S. Citizen
 
 ### Education
-- 2019		Certification in Data Science and Machine Learning, Metis
+- 2019		Certification in Data Science and Machine Learning, Metis, Seattle, WA
 - 2016		Masters of Science (Plant Biology), University of New Hampshire
-- 2013		Bachelors of Science (Agricultural Science), University of Vermont
+- 2013		Bachelors of Science (Plant Biology), University of Vermont
 
 ### Academic Positions
 - 2013-2016,	Research Project Manager, University of New Hampshire, Durham, New Hampshire,
@@ -36,7 +36,7 @@ Assisted in numerous interdisciplinary research projects in the Horticultural La
 ### Industry Positions
 - 2019 –	*current*,	Research Scientist, Affective Software, Inc., Seattle, WA
 Research scientist building machine learning models for multi-modal emotional/physiological classification. Using state of the art techniques in signal processing, natural language processing, computer vision, and audio analysis to power consumer applications.
-- 2018 –	*current*,	Data Analyst & Research Assistant, The Gottman Institute, Seattle, WA
+- 2018 –	2019,	Data Analyst & Research Assistant, The Gottman Institute, Seattle, WA
 Applying emotional analysis (Specific Affect Coding) to couples in clinical/lab setting to improve therapeutic outcomes. Involved in observational research and managing data pipelines, visualization, and statistical analysis.
 - 2018 –	2020,	    Educator, Sequoia Immersions, LLC, Seattle, WA
 Co-facilitating psychoeducational wilderness couples retreats using the research-based Gottman relational model.
