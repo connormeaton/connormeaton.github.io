@@ -10,6 +10,13 @@ To me, the primary purpose of reading is learning and I want to remember everyth
 
 ## A
 
+### Arendt, Hannah
+
+**The Origins of Totalitarianism**
+
+*(2021)*
+
+When we are confused, hungry and hopeless and someone offers us purpose, food, and meaning, we will obediently do anything they ask of us, volunteering our reason, morality, and lives as an escape from the absurd burden of comprehending reality.
 
 ## B
 
