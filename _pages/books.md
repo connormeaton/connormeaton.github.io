@@ -10,6 +10,14 @@ To me, the primary purpose of reading is learning and I want to remember everyth
 
 ## A
 
+### Alexander, Stephon
+
+**The Jazz of Physics**
+
+*(2021)*
+
+Cosmological genesis, like improvisational jazz, can be thought of as an emergent complex structure resulting from an amalgam of simple frequencies operating within bounded physical laws.
+
 ### Arendt, Hannah
 
 **The Origins of Totalitarianism**
