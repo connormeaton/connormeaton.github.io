@@ -16,7 +16,7 @@ To me, the primary purpose of reading is learning and I want to remember everyth
 
 *(2021)*
 
-Cosmological genesis, like improvisational jazz, can be thought of as an emergent complex structure resulting from an amalgam of simple frequencies operating within bounded physical laws.
+Cosmological genesis, like improvisational jazz, can be thought of as an emergent complex structure resulting from an amalgam of simple frequencies interacting within bounded physical laws.
 
 ### Arendt, Hannah
 
