@@ -69,9 +69,8 @@ Managed the design and manufacturing of high-end minimalist performance footwear
 - 2018		Seven Principles of Making Marriage Work Leader, The Gottman Institute
 
 ### Programming Languages
-Proficient: Python, R, Julia
-
-Familiar With: C++, SQL, MATLAB, Octave, HTML/CSS
+- *Proficient*: Python, R, Julia
+- *Familiar With*: C++, SQL, MATLAB, Octave, HTML/CSS
 
 
 
