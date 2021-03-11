@@ -34,12 +34,12 @@ Taught five distinct undergraduate courses throughout the biology department ove
 Assisted in numerous interdisciplinary research projects in the Horticultural Lab of the College of Life Sciences.
 
 ### Industry Positions
-- 2019 –	*current*,	Research Scientist, Affective Software, Inc., Seattle, WA
-Research scientist building machine learning models for multi-modal emotional/physiological classification. Using state of the art techniques in signal processing, natural language processing, computer vision, and audio analysis to power consumer applications.
-- 2018 –	2019,	Data Analyst & Research Assistant, The Gottman Institute, Seattle, WA
-Applying emotional analysis (Specific Affect Coding) to couples in clinical/lab setting to improve therapeutic outcomes. Involved in observational research and managing data pipelines, visualization, and statistical analysis.
+- 2019 –	*current*, Research Scientist, Affective Software, Inc., Seattle, WA
+Building machine learning models for multi-modal human emotional/behavioral/physiological classification. Using state of the art techniques in signal processing, natural language processing, computer vision, and deep learning to build mental healthcare applications and better understand humanity.
+- 2018 – 2020,	    Data Analyst, The Gottman Institute, Seattle, WA, Designed and built data pipelines, visualizations, and statistical analysis for psychological research in a clinical setting.
+- 2018 - 2020,      Research Assistant, The Gottman Institute, Seattle, WA, Applied emotional analysis (Specific Affect Coding) to couples in clinical/lab setting to improve therapeutic outcomes.
 - 2018 –	2020,	    Educator, Sequoia Immersions, LLC, Seattle, WA
-Co-facilitating psychoeducational wilderness couples retreats using the research-based Gottman relational model.
+Co-facilitated psychoeducational couples retreats using the research-based Gottman relational model.
 - 2017 – 2018,      Production Manager, Luna Sandals, Seattle, WA
 Managed the design and manufacturing of high-end minimalist performance footwear.
 
@@ -67,5 +67,10 @@ Managed the design and manufacturing of high-end minimalist performance footwear
 
 ### Certifications
 - 2018		Seven Principles of Making Marriage Work Leader, The Gottman Institute
+
+### Programming Languages
+Proficient: Python, R, Julia
+Familiar With: C++, SQL, MATLAB, Octave, HTML/CSS
+
 
 
