@@ -519,6 +519,14 @@ Getting strong is simple and hard.
 
 The true scientist is simultaneously able to risk everying pursuing of a theory of everything while always being ready to let it go.
 
+### Wittgenstein, Ludwig
+
+**Tractatus Logico-Philosophicus**
+
+*(2021)*
+
+Only some things that can be said make sense, but those things tend to not be very interesting compared to what must be shown.
+
 
 ## X
 
