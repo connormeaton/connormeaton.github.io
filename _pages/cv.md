@@ -70,6 +70,7 @@ Managed the design and manufacturing of high-end minimalist performance footwear
 
 ### Programming Languages
 Proficient: Python, R, Julia
+
 Familiar With: C++, SQL, MATLAB, Octave, HTML/CSS
 
 
