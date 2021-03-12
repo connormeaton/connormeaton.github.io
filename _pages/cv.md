@@ -72,5 +72,10 @@ Assisted in numerous interdisciplinary research projects in the Horticultural La
 - *Proficient*: Python, R, Julia
 - *Familiar With*: C++, SQL, MATLAB, Octave, HTML/CSS
 
+### GRE Scores
+- Verbal Reasoning: 98th Percentile, 167 Scaled Score
+- Quantitative Reasoning: 51st Percentile, 154 Scaled Score
+- Analytical Writing: 80th Percentile, 4.5 Scaled Score
+
 
 
