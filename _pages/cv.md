@@ -23,16 +23,6 @@ U.S. Citizen
 - 2016		Masters of Science (Plant Biology), University of New Hampshire
 - 2013		Bachelors of Science (Plant Biology), University of Vermont
 
-### Academic Positions
-- 2013-2016,	Research Project Manager, University of New Hampshire, Durham, New Hampshire,
-Managed multi-year grant-funded research in plant physiology resulting in top journal publications and conference presentations.
-- 2013-2016,	Research Assistant, Sideman Lab, University of New Hampshire, Durham, New Hampshire,
-Assisted in multi-year grant-funded research in soil biochemistry resulting in conference presentations.
-- 2013-2016,	Teaching Assistant, Biology Department, University of New Hampshire, Durham, New Hampshire
-Taught five distinct undergraduate courses throughout the biology department over seven semesters.
-- 2011-2013,	Research Assistant, Horticultural Lab, University of Vermont, Burlington, Vermont,
-Assisted in numerous interdisciplinary research projects in the Horticultural Lab of the College of Life Sciences.
-
 ### Industry Positions
 - 2019 –	*current*, Research Scientist, Affective Software, Inc., Seattle, WA
 Building machine learning models for multi-modal human emotional/behavioral/physiological classification. Using state of the art techniques in signal processing, natural language processing, computer vision, and deep learning to build mental healthcare applications and better understand humanity.
@@ -42,6 +32,16 @@ Building machine learning models for multi-modal human emotional/behavioral/phys
 Co-facilitated psychoeducational couples retreats using the research-based Gottman relational model.
 - 2017 – 2018,      Production Manager, Luna Sandals, Seattle, WA
 Managed the design and manufacturing of high-end minimalist performance footwear.
+
+### Academic Positions
+- 2013-2016,	Research Project Manager, University of New Hampshire, Durham, New Hampshire,
+Managed multi-year grant-funded research in plant physiology resulting in top journal publications and conference presentations.
+- 2013-2016,	Research Assistant, Sideman Lab, University of New Hampshire, Durham, New Hampshire,
+Assisted in multi-year grant-funded research in soil biochemistry resulting in conference presentations.
+- 2013-2016,	Teaching Assistant, Biology Department, University of New Hampshire, Durham, New Hampshire
+Taught five distinct undergraduate courses throughout the biology department over seven semesters.
+- 2011-2013,	Research Assistant, Horticultural Lab, University of Vermont, Burlington, Vermont,
+Assisted in numerous interdisciplinary research projects in the Horticultural Lab of the College of Life Sciences.
 
 ### Scientific Publications
 - Orde, K. M., Eaton, C., & Sideman, R. G. (2018). Yield and Soluble Solids Content of Winter-grown Spinach in Unheated High Tunnels in New England. HortScience, 53(5), 638-645. doi:10.21273/hortsci12956-18.  
