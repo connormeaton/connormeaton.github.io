@@ -37,7 +37,7 @@ Managed the design and manufacturing of high-end minimalist performance footwear
 - 2013-2016,	Research Project Manager, University of New Hampshire, Durham, New Hampshire,
 Managed multi-year grant-funded research in plant physiology resulting in top journal publications and conference presentations.
 - 2013-2016,	Research Assistant, Sideman Lab, University of New Hampshire, Durham, New Hampshire,
-Assisted in multi-year grant-funded research in soil biochemistry resulting in conference presentations.
+Assisted in multi-year grant-funded research in biogeochemistry resulting in conference presentations.
 - 2013-2016,	Teaching Assistant, Biology Department, University of New Hampshire, Durham, New Hampshire
 Taught five distinct undergraduate courses throughout the biology department over seven semesters.
 - 2011-2013,	Research Assistant, Horticultural Lab, University of Vermont, Burlington, Vermont,
