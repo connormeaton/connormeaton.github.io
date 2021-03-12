@@ -11,7 +11,7 @@ redirect_from:
 # Connor Eaton
 USA · connormeaton@gmail.com
   
-Current: Affective Computing Research Scientist at Affective Software, Inc. Building machine learning algorithms to power mental health applications, improve emotional awareness, and better understand humanity.
+Current: Affective Computing Research Scientist at [Affective Software, Inc.](https://affectivesoftware.com/) Building machine learning algorithms to power mental health applications, improve emotional awareness, and better understand humanity.
 
 **Primary interests:**
   - designing algorithms capable of predicting human affect/behavior as it manifests between conversing agents (human:human, human:machine)
