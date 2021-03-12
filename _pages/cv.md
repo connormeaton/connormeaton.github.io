@@ -28,7 +28,7 @@ U.S. Citizen
 Building machine learning models for multi-modal human emotional/behavioral/physiological classification. Using state of the art techniques in signal processing, natural language processing, computer vision, and deep learning to build mental healthcare applications and better understand humanity.
 - 2018 – 2020,	    Data Analyst, The Gottman Institute, Seattle, WA, Designed and built data pipelines, visualizations, and statistical analysis for psychological research in a clinical setting.
 - 2018 - 2020,      Research Assistant, The Gottman Institute, Seattle, WA, Applied emotional analysis (Specific Affect Coding) to couples in clinical/lab setting to improve therapeutic outcomes.
-- 2018 –	2020,	    Educator, Sequoia Immersions, LLC, Seattle, WA
+- 2018 –	2020,	    Educator, Sequoia Immersions, LLC, Seattle, WA,
 Co-facilitated psychoeducational couples retreats using the research-based Gottman relational model.
 - 2017 – 2018,      Production Manager, Luna Sandals, Seattle, WA
 Managed the design and manufacturing of high-end minimalist performance footwear.
