@@ -393,6 +393,14 @@ We must ask ourselves whether our righteousness stems from compassion for those 
 
 ## P
 
+### Pageau, Matthieu
+
+**The Language of Creation: Cosmic Symbolism in Genesis**
+
+*(2021)*
+
+The meaning of mythological artifacts is often encrypted in a symbolic language with a key us moderns can only grasp when we remove the lens of scientific materialism and drop the crutch of metaphor.
+
 ### Peterson, Jordan
 
 **Maps of Meaning**
@@ -517,7 +525,7 @@ Getting strong is simple and hard.
 
 *(2020)*
 
-The true scientist is simultaneously able to risk everying pursuing of a theory of everything while always being ready to let it go.
+The true scientist is simultaneously able to risk reputation in the pursuit of a theory of everything while always being ready to let it go.
 
 ### Wittgenstein, Ludwig
 
