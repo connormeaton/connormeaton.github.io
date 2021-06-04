@@ -11,15 +11,13 @@ redirect_from:
 # Connor Eaton
 USA · connormeaton@gmail.com
   
-Current: Affective Computing Research Scientist at [Affective Software, Inc.](https://affectivesoftware.com/) Building machine learning algorithms to power mental health applications, improve emotional awareness, and better understand humanity.
+Current: Affective Computing Research Scientist at [Affective Software, Inc.](https://affectivesoftware.com/) 
 
 **Primary interests:**
   - designing algorithms capable of predicting human affect/behavior as it manifests between conversing agents (human:human, human:machine)
-  - safe integration of AI and humanity
   - understanding concept formation and language through AI research
   - understanding the role of morality, belief, and religous/spiritual experience in modern life
-  - articulating information encoded in art, symbols, and ritual
-  - searching for and helping others find meaning
+  - articulating knowledge encoded in art, symbols, and ritual
   
 **Other interests:**
   - playing music [_primary_: drums (mostly jazz), _secondary_: guitar, banjo, piano, ukulele, harmonica, didjeridoo]
