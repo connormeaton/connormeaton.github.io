@@ -16,12 +16,9 @@ Current: Affective Computing Research Scientist (Machine Learning) at [Affective
 **Primary interests:**
   - designing ML algorithms capable of predicting human affect/behavior as it manifests between conversing agents (human:human, human:machine)
   - understanding concept formation and language through ML research
-  - understanding the role of morality, belief, and religous/spiritual experience in modern life
-  - articulating knowledge encoded in art, symbols, and ritual
   
 **Other interests:**
-  - playing music [_primary_: drums (mostly jazz), _secondary_: guitar, banjo, piano, ukulele, harmonica, didjeridoo]
-  - reading
-  - the wilderness
+  - making music
+  - reading books
   - brazillian jiu jitsu
   - surfing
