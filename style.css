@@ -1,0 +1,244 @@
+/* Old-world, quiet, serif, lots of air */
+
+:root{
+  --bg: #f6f0e6;
+  --bg-deep: #efe6d8;
+  --ink: #1b1b1b;
+  --muted: #5d5852;
+  --rule: rgba(0,0,0,.14);
+  --link: #7b2f3a;
+  --link-hover: #000;
+  --accent: #a37a4a;
+  --accent-deep: #7b552f;
+  --vermillion: #a2432e;
+  --earth-green: #7b2f3a;
+}
+
+* { box-sizing: border-box; }
+
+html, body { height: 100%; }
+
+body{
+  margin: 0;
+  background:
+    radial-gradient(1200px 700px at 20% -10%, #fdfaf3 0%, rgba(253,250,243,0) 60%),
+    radial-gradient(900px 600px at 100% 0%, #f2e7d6 0%, rgba(242,231,214,0) 60%),
+    linear-gradient(180deg, var(--bg) 0%, var(--bg-deep) 100%);
+  color: var(--ink);
+  font-family:
+    "Iowan Old Style", "Palatino Linotype", Palatino,
+    "Book Antiqua", Georgia, "Times New Roman", serif;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.wrap{
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 56px 26px 80px;
+  position: relative;
+}
+
+header{
+  margin-bottom: 28px;
+}
+
+.site-title{
+  font-size: 30px;
+  font-weight: 600;
+  letter-spacing: .2px;
+  margin: 0 0 8px;
+  font-family: "EB Garamond", "Iowan Old Style", "Palatino Linotype", Palatino,
+    "Book Antiqua", Georgia, "Times New Roman", serif;
+  text-decoration: none;
+  color: var(--ink);
+}
+
+.nav{
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  font-size: 15px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  font-family: "Iowan Old Style", "Palatino Linotype", Palatino,
+    "Book Antiqua", Georgia, "Times New Roman", serif;
+}
+
+.nav a{
+  color: var(--earth-green);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(0,0,0,.25);
+  padding-bottom: 1px;
+  font-weight: 600;
+}
+
+.nav a:hover{
+  color: var(--earth-green);
+  border-bottom-color: rgba(0,0,0,.55);
+}
+
+.rule{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  color: var(--earth-green);
+  margin: 30px 0;
+  letter-spacing: .2em;
+}
+
+
+.rule::before,
+.rule::after{
+  content: "";
+  height: 1px;
+  width: 120px;
+  background: var(--rule);
+}
+
+h2{
+  font-size: 17px;
+  font-weight: 700;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  margin: 26px 0 10px;
+}
+
+p{
+  margin: 0 0 16px;
+  color: var(--ink);
+}
+
+.lede{
+  font-size: 18px;
+  position: relative;
+}
+
+.lede::first-letter{
+  font-size: 44px;
+  float: left;
+  line-height: .9;
+  padding: 6px 8px 0 0;
+  color: var(--earth-green);
+}
+
+.lede-body{
+  font-size: 18px;
+}
+
+.muted{ color: var(--muted); }
+
+.project-banner{
+  margin: 20px 0 24px;
+  display: flex;
+  justify-content: center;
+}
+
+.project-banner img{
+  width: min(420px, 100%);
+  height: auto;
+  border-radius: 12px;
+  border: none;
+}
+
+
+a{
+  color: var(--link);
+}
+
+a:hover{
+  color: var(--earth-green);
+}
+
+.list{
+  margin: 8px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.list a{
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(0,0,0,.25);
+  padding-bottom: 1px;
+}
+
+.list a:hover{
+  color: var(--earth-green);
+  border-bottom-color: rgba(0,0,0,.55);
+}
+
+.list li{
+  margin: 12px 0;
+  padding-left: 18px;
+  position: relative;
+}
+
+.list li::before{
+  content: "✠";
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: var(--earth-green);
+}
+
+.item-title{
+  font-weight: 600;
+}
+
+.item-desc{
+  color: var(--muted);
+}
+
+.footer{
+  margin-top: 38px;
+  font-size: 14px;
+  color: var(--muted);
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.footer a{
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(0,0,0,.18);
+}
+
+.footer a:hover{
+  color: var(--earth-green);
+  border-bottom-color: rgba(0,0,0,.35);
+}
+
+.ornament{
+  opacity: .75;
+}
+
+.ornament{
+  display: inline-block;
+  width: 1ch;
+  text-align: center;
+}
+
+@media (max-width: 600px){
+  .wrap{
+    padding: 44px 20px 60px;
+  }
+
+  .site-title{
+    font-size: 28px;
+  }
+
+  .rule::before,
+  .rule::after{
+    width: 70px;
+  }
+
+  .lede{
+    font-size: 17px;
+  }
+
+}

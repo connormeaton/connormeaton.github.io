@@ -1,12 +1,70 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
 <head>
-  <meta charset="UTF-8" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <base target="_blank" />
   <title>Connor Eaton</title>
+  <meta name="description" content="Connor Eaton — writing, projects, and notes." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@500;600;700&display=swap" />
+  <link rel="stylesheet" href="/style.css" />
 </head>
 <body>
-  <h1>Connor Eaton</h1>
-  <p>Site coming soon.</p>
+  <div class="wrap">
+    <header>
+      <div class="masthead-text">
+        <a class="site-title" href="/" target="_self">Connor Eaton</a>
+        <nav class="nav">
+          <a href="/writing.html" target="_self">Writing</a>
+          <a href="/projects.html" target="_self">Projects</a>
+          <a href="/about.html" target="_self">About</a>
+        </nav>
+      </div>
+    </header>
+
+    <p class="lede">
+      Welcome. You've found the spot where I'll curate my professional and personal
+      creations. I'm glad you're here.
+    </p>
+
+    <div class="rule" aria-hidden="true">✠</div>
+
+    <h2>Projects</h2>
+    <ul class="list">
+      <li>
+        <span class="item-title"><a href="https://substack.com/@connormichaeleaton" target="_blank" rel="noopener">Writing</a></span>
+        <span class="item-desc"> — my Substack for musings.</span>
+      </li>
+      <li>
+        <span class="item-title"><a href="https://open.spotify.com/artist/6BS3LaL27Jj6Q2vgc3eNv0">Music</a></span>
+        <span class="item-desc"> — my latest full length album.</span>
+      </li>
+      <li>
+        <span class="item-title"><a href="#">dreyma</a></span>
+        <span class="item-desc"> — an app for making meaning from dreams (coming soon).</span>
+      </li>
+      <li>
+        <span class="item-title"><a href="#">Homestead</a></span>
+        <span class="item-desc"> — life on the farm (coming soon).</span>
+      </li>
+    </ul>
+
+    <div class="rule" aria-hidden="true">✠</div>
+
+    <div class="footer">
+      <span class="ornament">✠</span>
+      <a href="/about.html">contact</a>
+      <span class="ornament">✠</span>
+      <a href="/">home</a>
+      <span class="ornament">✠</span>
+      <span>© <span id="y"></span> Connor Eaton</span>
+    </div>
+  </div>
+
+  <script>
+    document.getElementById("y").textContent = new Date().getFullYear();
+  </script>
 </body>
 </html>
-
